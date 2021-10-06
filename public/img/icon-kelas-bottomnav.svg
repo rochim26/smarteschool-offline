@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="24" viewBox="0 0 30 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_37241" data-name="Path 37241" d="M4.5,3h21V19.5h3V1.875A1.877,1.877,0,0,0,26.625,0H3.375A1.877,1.877,0,0,0,1.5,1.875V19.5h3ZM29.25,21H22.5V18h-9v3H.75a.75.75,0,0,0-.75.75v1.5A.75.75,0,0,0,.75,24h28.5a.75.75,0,0,0,.75-.75v-1.5A.75.75,0,0,0,29.25,21Z" transform="translate(0 0)" fill="#80849c"/>
+    </clipPath>
+  </defs>
+  <g id="icon-kelas-bottomnav" transform="translate(-5462.167 -18557)">
+    <path id="Path_37240" data-name="Path 37240" d="M4.5,3h21V19.5h3V1.875A1.877,1.877,0,0,0,26.625,0H3.375A1.877,1.877,0,0,0,1.5,1.875V19.5h3ZM29.25,21H22.5V18h-9v3H.75a.75.75,0,0,0-.75.75v1.5A.75.75,0,0,0,.75,24h28.5a.75.75,0,0,0,.75-.75v-1.5A.75.75,0,0,0,29.25,21Z" transform="translate(5462.167 18557)" fill="#80849c" opacity="0.6"/>
+    <g id="Mask_Group_1499" data-name="Mask Group 1499" transform="translate(5462.167 18557)" opacity="0.6" clip-path="url(#clip-path)">
+      <circle id="Ellipse_547" data-name="Ellipse 547" cx="25.554" cy="25.554" r="25.554" transform="translate(-32.049 -23.224)" fill="#80849c" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

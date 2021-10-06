@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.541" height="40.541" viewBox="0 0 40.541 40.541">
+  <g id="Group_2582" data-name="Group 2582" transform="translate(-955.59 -240)">
+    <path id="Path_2437" data-name="Path 2437" d="M20.271,0A20.271,20.271,0,1,1,0,20.271,20.271,20.271,0,0,1,20.271,0Z" transform="translate(955.59 240)" fill="#fff" opacity="0.3"/>
+    <g id="Group_2280" data-name="Group 2280" transform="translate(966.344 247)">
+      <path id="Path_2438" data-name="Path 2438" d="M784.339-10.188l-4.852-5.044a1.166,1.166,0,0,0-.843-.36h-.3V-9h6.344v-.314A1.256,1.256,0,0,0,784.339-10.188Z" transform="translate(-765.655 15.592)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_2440" data-name="Path 2440" d="M533.444-8.592v-7h-9.912a1.21,1.21,0,0,0-1.189,1.235V9.525a1.21,1.21,0,0,0,1.189,1.235h16.653a1.21,1.21,0,0,0,1.19-1.235V-7.357h-6.74A1.217,1.217,0,0,1,533.444-8.592Z" transform="translate(-522.342 15.592)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_18" data-name="Line 18" x2="12.542" transform="translate(2.966 11.755)" fill="none" stroke="#68a7f1" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_19" data-name="Line 19" x2="12.542" transform="translate(2.966 15.45)" fill="none" stroke="#68a7f1" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_20" data-name="Line 20" x2="12.542" transform="translate(2.966 19.48)" fill="none" stroke="#68a7f1" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_21" data-name="Line 21" x2="6.02" transform="translate(2.966 23.174)" fill="none" stroke="#68a7f1" stroke-linecap="round" stroke-width="1"/>
+      <path id="ban-solid" d="M11.209,8a3.209,3.209,0,1,0,3.209,3.209A3.209,3.209,0,0,0,11.209,8Zm1.684,1.526a2.382,2.382,0,0,1,.268,3.05L9.844,9.258A2.381,2.381,0,0,1,12.893,9.526ZM9.526,12.893a2.382,2.382,0,0,1-.268-3.049l3.317,3.317A2.381,2.381,0,0,1,9.526,12.893Z" transform="translate(-5.691 -6.252)" fill="#68a7f1"/>
+    </g>
+  </g>
+</svg>

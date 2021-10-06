@@ -1,0 +1,7 @@
+<svg id="check-plus" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <circle id="Ellipse_118" data-name="Ellipse 118" cx="8" cy="8" r="8" fill="#2680eb"/>
+  <g id="check-plus-2" data-name="check-plus" transform="translate(4.285 4.285)">
+    <path id="Path_128" data-name="Path 128" d="M975,1948v7.43" transform="translate(-971.285 -1948)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+    <path id="Path_129" data-name="Path 129" d="M0,0V7.43" transform="translate(7.43 3.715) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5"/>
+  </g>
+</svg>

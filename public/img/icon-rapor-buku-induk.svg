@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_2441" data-name="Path 2441" d="M530.557-10.412v-5.18h-7.335a.9.9,0,0,0-.88.914V2.994a.9.9,0,0,0,.88.914h12.323a.9.9,0,0,0,.88-.914V-9.5h-4.988A.9.9,0,0,1,530.557-10.412Z" transform="translate(-522.342 15.592)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon-rapor-buku-induk" transform="translate(-46.333 -131.071)">
+    <path id="Path_2437" data-name="Path 2437" d="M15,0A15,15,0,1,1,0,15,15,15,0,0,1,15,0Z" transform="translate(46.333 131.071)" fill="#d9eeff" opacity="0.7"/>
+    <g id="Group_1711" data-name="Group 1711" transform="translate(0.291 1.321)">
+      <path id="Path_2438" data-name="Path 2438" d="M782.78-11.593l-3.59-3.732a.863.863,0,0,0-.623-.267h-.224v4.875h4.694v-.232A.929.929,0,0,0,782.78-11.593Z" transform="translate(-714.954 150.592)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_2440" data-name="Path 2440" d="M530.557-10.412v-5.18h-7.335a.9.9,0,0,0-.88.914V2.994a.9.9,0,0,0,.88.914h12.323a.9.9,0,0,0,.88-.914V-9.5h-4.988A.9.9,0,0,1,530.557-10.412Z" transform="translate(-468.342 150.592)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Mask_Group_1292" data-name="Mask Group 1292" transform="translate(54 135)" clip-path="url(#clip-path)">
+        <ellipse id="Ellipse_280" data-name="Ellipse 280" cx="8.77" cy="8.77" rx="8.77" ry="8.77" transform="translate(-8.081 -9.906)" fill="#6bb1fe" opacity="0.5"/>
+      </g>
+      <path id="Union_26" data-name="Union 26" d="M3,3.819a.406.406,0,0,1-.15-.18l-.225-.5H1.008l-.229.5a.4.4,0,0,1-.153.18.4.4,0,0,1-.212.059.468.468,0,0,1-.308-.114.354.354,0,0,1-.137-.28A.422.422,0,0,1,.014,3.3L1.333.589A.469.469,0,0,1,1.526.381a.585.585,0,0,1,.563,0,.465.465,0,0,1,.2.208L3.6,3.3a.435.435,0,0,1,.045.185.358.358,0,0,1-.133.28.448.448,0,0,1-.3.114A.387.387,0,0,1,3,3.819ZM1.319,2.444h1l-.5-1.115ZM3.94,1.12A.229.229,0,0,1,3.873.951v-.5h-.5A.223.223,0,0,1,3.2.382a.237.237,0,0,1-.068-.17A.232.232,0,0,1,3.2.043a.228.228,0,0,1,.168-.068h.5v-.5A.231.231,0,0,1,3.94-.7a.229.229,0,0,1,.168-.067A.227.227,0,0,1,4.276-.7a.228.228,0,0,1,.068.168v.5h.5a.231.231,0,0,1,.236.236.236.236,0,0,1-.068.17.226.226,0,0,1-.168.07h-.5v.5a.231.231,0,0,1-.066.168.246.246,0,0,1-.338,0Z" transform="translate(56.134 136.768)" fill="#f4f4f7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_18" data-name="Line 18" x2="9.281" transform="translate(56.195 143.699)" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_19" data-name="Line 19" x2="9.281" transform="translate(56.195 146.433)" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_20" data-name="Line 20" x2="9.281" transform="translate(56.195 149.415)" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_21" data-name="Line 21" x2="4.455" transform="translate(56.195 152.149)" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="387" height="314" viewBox="0 0 387 314">
+  <g id="frame-video" transform="translate(-875 -1575)">
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="352" height="306" transform="translate(875 1583)" fill="#fff" opacity="0.75"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="363" height="283" transform="translate(886 1598)" fill="#2680eb"/>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(897 1575)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="365" height="300" stroke="none"/>
+      <rect x="0.5" y="0.5" width="364" height="299" fill="none"/>
+    </g>
+    <rect id="Overlay" width="300" height="250" transform="translate(922 1611)" fill="#d9eeff" opacity="0.5"/>
+  </g>
+</svg>

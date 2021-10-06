@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="477" viewBox="0 0 720 477">
+  <g id="frame-foto" transform="translate(-271 -604.499)">
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="694" height="451" transform="translate(271 613.499)" fill="#2680eb" opacity="0.75"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="699" height="430" transform="translate(292 651.499)" fill="#eff7fb"/>
+    <rect id="Rectangle_50" data-name="Rectangle 50" width="635" height="404" transform="translate(318 633.499)" fill="#6bb1fe" opacity="0.61"/>
+    <g id="Rectangle_41" data-name="Rectangle 41" transform="translate(281 604.499)" fill="none" stroke="#2680eb" stroke-width="1">
+      <rect width="699" height="451" stroke="none"/>
+      <rect x="0.5" y="0.5" width="698" height="450" fill="none"/>
+    </g>
+  </g>
+</svg>

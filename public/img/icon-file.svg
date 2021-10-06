@@ -1,0 +1,8 @@
+<svg id="icon-file" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <path id="Path_2534" data-name="Path 2534" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" fill="#2680eb" opacity="0.3"/>
+  <g id="pdf" transform="translate(8.451 8.621)">
+    <path id="Path_468" data-name="Path 468" d="M97.742,0A1.751,1.751,0,0,0,96,1.75v24.5A1.751,1.751,0,0,0,97.742,28H115.16a1.751,1.751,0,0,0,1.742-1.75V7l-6.967-7Z" transform="translate(-92.402)" fill="#e2e5e7"/>
+    <path id="Path_469" data-name="Path 469" d="M353.8,7.2h5.4L352,0V5.4A1.8,1.8,0,0,0,353.8,7.2Z" transform="translate(-334.697 -0.242)" fill="#b0b7bd"/>
+    <path id="Path_470" data-name="Path 470" d="M389.4,133.4,384,128h5.4Z" transform="translate(-364.898 -121.045)" fill="#cad1d8"/>
+  </g>
+</svg>

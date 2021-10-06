@@ -1,0 +1,11 @@
+<svg id="icon-file-upload" xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <path id="Path_2534" data-name="Path 2534" d="M22.5,0A22.5,22.5,0,1,1,0,22.5,22.5,22.5,0,0,1,22.5,0Z" fill="#2680eb" opacity="0.3"/>
+  <g id="pdf" transform="translate(10.25 8.5)">
+    <path id="Path_468" data-name="Path 468" d="M97.742,0A1.751,1.751,0,0,0,96,1.75v24.5A1.751,1.751,0,0,0,97.742,28H115.16a1.751,1.751,0,0,0,1.742-1.75V7l-6.967-7Z" transform="translate(-92.402)" fill="#e2e5e7"/>
+    <path id="Path_469" data-name="Path 469" d="M353.8,7.2h5.4L352,0V5.4A1.8,1.8,0,0,0,353.8,7.2Z" transform="translate(-334.697)" fill="#b0b7bd"/>
+    <path id="Path_470" data-name="Path 470" d="M389.4,133.4,384,128h5.4Z" transform="translate(-364.898 -121.045)" fill="#cad1d8"/>
+    <path id="Path_471" data-name="Path 471" d="M52.9,249.9a.888.888,0,0,1-.871.9H32.871a.888.888,0,0,1-.871-.9v-9a.888.888,0,0,1,.871-.9h19.16a.888.888,0,0,1,.871.9Z" transform="translate(-32 -227.097)" fill="#2680eb"/>
+    <path id="Path_475" data-name="Path 475" d="M112.438,416.9H96v.9h16.438a.885.885,0,0,0,.865-.9V416A.885.885,0,0,1,112.438,416.9Z" transform="translate(-92.402 -393.398)" fill="#cad1d8"/>
+    <path id="arrow-alt-circle-down-regular" d="M147.347,135.131V131.67h-2a.359.359,0,0,1-.254-.612l2.954-2.953a.358.358,0,0,1,.507,0l2.954,2.953a.358.358,0,0,1-.254.612h-2v3.461a.359.359,0,0,1-.358.358H147.7A.359.359,0,0,1,147.347,135.131Z" transform="translate(-137.852 -113.443)" fill="#fff"/>
+  </g>
+</svg>

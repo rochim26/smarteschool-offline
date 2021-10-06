@@ -1,0 +1,15 @@
+<svg id="Group_2165" data-name="Group 2165" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f26966;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_79" data-name="Ellipse 79" class="cls-1" cx="9" cy="9" r="9"/>
+  <path id="Path_214" data-name="Path 214" class="cls-2" d="M19.639,9.825a1.82,1.82,0,1,1-1.82-1.82A1.822,1.822,0,0,1,19.639,9.825ZM16.211.573,16.52,6.76a.546.546,0,0,0,.545.519h1.509a.546.546,0,0,0,.545-.519L19.428.573A.546.546,0,0,0,18.883,0H16.756A.546.546,0,0,0,16.211.573Z" transform="translate(-8.925 3.176)"/>
+</svg>

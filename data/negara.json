@@ -1,0 +1,534 @@
+[
+  { "img": "/img/negara/001-mauritius.svg", "value": "mauritius", "label": "mauritius" },
+  { "img": "/img/negara/003-austria.svg", "value": "austria", "label": "austria" },
+  { "img": "/img/negara/004-oman.svg", "value": "oman", "label": "oman" },
+  { "img": "/img/negara/005-ethiopia.svg", "value": "ethiopia", "label": "ethiopia" },
+  { "img": "/img/negara/006-tanzania.svg", "value": "tanzania", "label": "tanzania" },
+  { "img": "/img/negara/007-nicaragua.svg", "value": "nicaragua", "label": "nicaragua" },
+  { "img": "/img/negara/008-estonia.svg", "value": "estonia", "label": "estonia" },
+  { "img": "/img/negara/009-uganda.svg", "value": "uganda", "label": "uganda" },
+  { "img": "/img/negara/010-slovenia.svg", "value": "slovenia", "label": "slovenia" },
+  { "img": "/img/negara/011-zimbabwe.svg", "value": "zimbabwe", "label": "zimbabwe" },
+  {
+    "img": "/img/negara/012-sao-tome-and-prince.svg",
+    "value": "sao-tome-and-prince",
+    "label": "sao tome and prince"
+  },
+  { "img": "/img/negara/013-italy.svg", "value": "italy", "label": "italy" },
+  { "img": "/img/negara/014-wales.svg", "value": "wales", "label": "wales" },
+  {
+    "img": "/img/negara/015-el-salvador.svg",
+    "value": "el-salvador",
+    "label": "el salvador"
+  },
+  { "img": "/img/negara/016-nepal.svg", "value": "nepal", "label": "nepal" },
+  {
+    "img": "/img/negara/017-christmas-island.svg",
+    "value": "christmas-island",
+    "label": "christmas island"
+  },
+  { "img": "/img/negara/018-lebanon.svg", "value": "lebanon", "label": "lebanon" },
+  { "img": "/img/negara/019-ceuta.svg", "value": "ceuta", "label": "ceuta" },
+  { "img": "/img/negara/020-iraq.svg", "value": "iraq", "label": "iraq" },
+  {
+    "img": "/img/negara/021-cook-islands.svg",
+    "value": "cook-islands",
+    "label": "cook islands"
+  },
+  { "img": "/img/negara/022-syria.svg", "value": "syria", "label": "syria" },
+  {
+    "img": "/img/negara/023-cocos-island.svg",
+    "value": "cocos-island",
+    "label": "cocos island"
+  },
+  { "img": "/img/negara/024-honduras.svg", "value": "honduras", "label": "honduras" },
+  { "img": "/img/negara/025-anguilla.svg", "value": "anguilla", "label": "anguilla" },
+  { "img": "/img/negara/026-qatar.svg", "value": "qatar", "label": "qatar" },
+  {
+    "img": "/img/negara/027-american-samoa.svg",
+    "value": "american-samoa",
+    "label": "american samoa"
+  },
+  {
+    "img": "/img/negara/028-puerto-rico.svg",
+    "value": "puerto-rico",
+    "label": "puerto rico"
+  },
+  { "img": "/img/negara/029-comoros.svg", "value": "comoros", "label": "comoros" },
+  {
+    "img": "/img/negara/030-north-korea.svg",
+    "value": "north-korea",
+    "label": "north korea"
+  },
+  { "img": "/img/negara/031-corsica.svg", "value": "corsica", "label": "corsica" },
+  { "img": "/img/negara/032-zambia.svg", "value": "zambia", "label": "zambia" },
+  {
+    "img": "/img/negara/033-saint-kitts-and-nevis.svg",
+    "value": "saint-kitts-and-nevis",
+    "label": "saint kitts and nevis"
+  },
+  { "img": "/img/negara/034-china.svg", "value": "china", "label": "china" },
+  { "img": "/img/negara/035-luxembourg.svg", "value": "luxembourg", "label": "luxembourg" },
+  {
+    "img": "/img/negara/036-central-african-republic.svg",
+    "value": "central-african-republic",
+    "label": "central african republic"
+  },
+  { "img": "/img/negara/037-jamaica.svg", "value": "jamaica", "label": "jamaica" },
+  { "img": "/img/negara/038-cape-verde.svg", "value": "cape-verde", "label": "cape verde" },
+  { "img": "/img/negara/039-monaco.svg", "value": "monaco", "label": "monaco" },
+  { "img": "/img/negara/040-bhutan.svg", "value": "bhutan", "label": "bhutan" },
+  { "img": "/img/negara/041-paraguay.svg", "value": "paraguay", "label": "paraguay" },
+  { "img": "/img/negara/042-aruba.svg", "value": "aruba", "label": "aruba" },
+  { "img": "/img/negara/043-montserrat.svg", "value": "montserrat", "label": "montserrat" },
+  { "img": "/img/negara/044-latvia.svg", "value": "latvia", "label": "latvia" },
+  { "img": "/img/negara/045-andorra.svg", "value": "andorra", "label": "andorra" },
+  { "img": "/img/negara/046-micronesia.svg", "value": "micronesia", "label": "micronesia" },
+  {
+    "img": "/img/negara/047-dominican-republic.svg",
+    "value": "dominican-republic",
+    "label": "dominican republic"
+  },
+  { "img": "/img/negara/048-abkhazia.svg", "value": "abkhazia", "label": "abkhazia" },
+  { "img": "/img/negara/049-tunisia.svg", "value": "tunisia", "label": "tunisia" },
+  { "img": "/img/negara/050-mauritania.svg", "value": "mauritania", "label": "mauritania" },
+  {
+    "img": "/img/negara/051-cayman-islands.svg",
+    "value": "cayman-islands",
+    "label": "cayman islands"
+  },
+  { "img": "/img/negara/052-kosovo.svg", "value": "kosovo", "label": "kosovo" },
+  { "img": "/img/negara/053-ghana.svg", "value": "ghana", "label": "ghana" },
+  {
+    "img": "/img/negara/054-canary-islands.svg",
+    "value": "canary-islands",
+    "label": "canary islands"
+  },
+  { "img": "/img/negara/055-scotland.svg", "value": "scotland", "label": "scotland" },
+  {
+    "img": "/img/negara/056-guinea-bissau.svg",
+    "value": "guinea-bissau",
+    "label": "guinea bissau"
+  },
+  { "img": "/img/negara/057-burundi.svg", "value": "burundi", "label": "burundi" },
+  { "img": "/img/negara/058-myanmar.svg", "value": "myanmar", "label": "myanmar" },
+  { "img": "/img/negara/059-gabon.svg", "value": "gabon", "label": "gabon" },
+  { "img": "/img/negara/060-benin.svg", "value": "benin", "label": "benin" },
+  {
+    "img": "/img/negara/061-saba-island.svg",
+    "value": "saba-island",
+    "label": "saba island"
+  },
+  { "img": "/img/negara/062-namibia.svg", "value": "namibia", "label": "namibia" },
+  { "img": "/img/negara/063-japan.svg", "value": "japan", "label": "japan" },
+  { "img": "/img/negara/064-lithuania.svg", "value": "lithuania", "label": "lithuania" },
+  { "img": "/img/negara/065-eritrea.svg", "value": "eritrea", "label": "eritrea" },
+  { "img": "/img/negara/066-chad.svg", "value": "chad", "label": "chad" },
+  { "img": "/img/negara/067-kenya.svg", "value": "kenya", "label": "kenya" },
+  { "img": "/img/negara/068-djibouti.svg", "value": "djibouti", "label": "djibouti" },
+  {
+    "img": "/img/negara/069-british-indian-ocean-territory.svg",
+    "value": "british-indian-ocean-territory",
+    "label": "british indian ocean territory"
+  },
+  { "img": "/img/negara/070-tuvalu-1.svg", "value": "tuvalu-1", "label": "tuvalu 1" },
+  { "img": "/img/negara/071-serbia.svg", "value": "serbia", "label": "serbia" },
+  { "img": "/img/negara/072-bonaire.svg", "value": "bonaire", "label": "bonaire" },
+  { "img": "/img/negara/073-togo.svg", "value": "togo", "label": "togo" },
+  { "img": "/img/negara/074-kazakhstan.svg", "value": "kazakhstan", "label": "kazakhstan" },
+  {
+    "img": "/img/negara/075-antigua-and-barbuda.svg",
+    "value": "antigua-and-barbuda",
+    "label": "antigua and barbuda"
+  },
+  { "img": "/img/negara/076-suriname.svg", "value": "suriname", "label": "suriname" },
+  { "img": "/img/negara/077-jordan.svg", "value": "jordan", "label": "jordan" },
+  { "img": "/img/negara/078-belize.svg", "value": "belize", "label": "belize" },
+  { "img": "/img/negara/079-st-barts.svg", "value": "st-barts", "label": "st barts" },
+  { "img": "/img/negara/080-iceland.svg", "value": "iceland", "label": "iceland" },
+  { "img": "/img/negara/081-bermuda.svg", "value": "bermuda", "label": "bermuda" },
+  {
+    "img": "/img/negara/082-united-nations.svg",
+    "value": "united-nations",
+    "label": "united nations"
+  },
+  { "img": "/img/negara/083-somalia.svg", "value": "somalia", "label": "somalia" },
+  { "img": "/img/negara/084-barbados.svg", "value": "barbados", "label": "barbados" },
+  {
+    "img": "/img/negara/085-solomon-islands.svg",
+    "value": "solomon-islands",
+    "label": "solomon islands"
+  },
+  { "img": "/img/negara/086-nigeria.svg", "value": "nigeria", "label": "nigeria" },
+  {
+    "img": "/img/negara/087-aland-islands.svg",
+    "value": "aland-islands",
+    "label": "aland islands"
+  },
+  { "img": "/img/negara/088-uruguay.svg", "value": "uruguay", "label": "uruguay" },
+  {
+    "img": "/img/negara/089-sint-maarten.svg",
+    "value": "sint-maarten",
+    "label": "sint maarten"
+  },
+  {
+    "img": "/img/negara/090-burkina-faso.svg",
+    "value": "burkina-faso",
+    "label": "burkina faso"
+  },
+  { "img": "/img/negara/091-slovakia.svg", "value": "slovakia", "label": "slovakia" },
+  {
+    "img": "/img/negara/092-sierra-leone.svg",
+    "value": "sierra-leone",
+    "label": "sierra leone"
+  },
+  {
+    "img": "/img/negara/093-basque-country.svg",
+    "value": "basque-country",
+    "label": "basque country"
+  },
+  {
+    "img": "/img/negara/094-south-korea.svg",
+    "value": "south-korea",
+    "label": "south korea"
+  },
+  {
+    "img": "/img/negara/095-pitcairn-islands.svg",
+    "value": "pitcairn-islands",
+    "label": "pitcairn islands"
+  },
+  { "img": "/img/negara/096-mozambique.svg", "value": "mozambique", "label": "mozambique" },
+  { "img": "/img/negara/097-san-marino.svg", "value": "san-marino", "label": "san marino" },
+  { "img": "/img/negara/098-guatemala.svg", "value": "guatemala", "label": "guatemala" },
+  { "img": "/img/negara/099-albania.svg", "value": "albania", "label": "albania" },
+  { "img": "/img/negara/100-pakistan.svg", "value": "pakistan", "label": "pakistan" },
+  {
+    "img": "/img/negara/101-northern-cyprus.svg",
+    "value": "northern-cyprus",
+    "label": "northern cyprus"
+  },
+  {
+    "img": "/img/negara/102-balearic-islands.svg",
+    "value": "balearic-islands",
+    "label": "balearic islands"
+  },
+  {
+    "img": "/img/negara/103-marshall-island.svg",
+    "value": "marshall-island",
+    "label": "marshall island"
+  },
+  { "img": "/img/negara/104-ecuador.svg", "value": "ecuador", "label": "ecuador" },
+  { "img": "/img/negara/105-cameroon.svg", "value": "cameroon", "label": "cameroon" },
+  { "img": "/img/negara/106-panama.svg", "value": "panama", "label": "panama" },
+  { "img": "/img/negara/107-kwait.svg", "value": "kwait", "label": "kwait" },
+  { "img": "/img/negara/108-armenia.svg", "value": "armenia", "label": "armenia" },
+  { "img": "/img/negara/109-romania.svg", "value": "romania", "label": "romania" },
+  { "img": "/img/negara/110-guinea.svg", "value": "guinea", "label": "guinea" },
+  {
+    "img": "/img/negara/111-afghanistan.svg",
+    "value": "afghanistan",
+    "label": "afghanistan"
+  },
+  { "img": "/img/negara/112-laos.svg", "value": "laos", "label": "laos" },
+  { "img": "/img/negara/113-greenland.svg", "value": "greenland", "label": "greenland" },
+  {
+    "img": "/img/negara/114-british-virgin-islands.svg",
+    "value": "british-virgin-islands",
+    "label": "british virgin islands"
+  },
+  { "img": "/img/negara/115-hungary.svg", "value": "hungary", "label": "hungary" },
+  { "img": "/img/negara/116-curacao.svg", "value": "curacao", "label": "curacao" },
+  { "img": "/img/negara/117-angola.svg", "value": "angola", "label": "angola" },
+  { "img": "/img/negara/118-malasya.svg", "value": "malasya", "label": "malasya" },
+  { "img": "/img/negara/119-brunei.svg", "value": "brunei", "label": "brunei" },
+  { "img": "/img/negara/120-bahamas.svg", "value": "bahamas", "label": "bahamas" },
+  {
+    "img": "/img/negara/121-new-zealand.svg",
+    "value": "new-zealand",
+    "label": "new zealand"
+  },
+  {
+    "img": "/img/negara/123-british-columbia.svg",
+    "value": "british-columbia",
+    "label": "british columbia"
+  },
+  {
+    "img": "/img/negara/124-vatican-city.svg",
+    "value": "vatican-city",
+    "label": "vatican city"
+  },
+  { "img": "/img/negara/125-finland.svg", "value": "finland", "label": "finland" },
+  { "img": "/img/negara/126-botswana.svg", "value": "botswana", "label": "botswana" },
+  { "img": "/img/negara/127-sri-lanka.svg", "value": "sri-lanka", "label": "sri lanka" },
+  { "img": "/img/negara/128-spain.svg", "value": "spain", "label": "spain" },
+  { "img": "/img/negara/129-ossetia.svg", "value": "ossetia", "label": "ossetia" },
+  { "img": "/img/negara/130-sicily.svg", "value": "sicily", "label": "sicily" },
+  { "img": "/img/negara/131-chile.svg", "value": "chile", "label": "chile" },
+  {
+    "img": "/img/negara/132-bosnia-and-herzegovina.svg",
+    "value": "bosnia-and-herzegovina",
+    "label": "bosnia and herzegovina"
+  },
+  {
+    "img": "/img/negara/133-saudi-arabia.svg",
+    "value": "saudi-arabia",
+    "label": "saudi arabia"
+  },
+  {
+    "img": "/img/negara/134-liechtenstein.svg",
+    "value": "liechtenstein",
+    "label": "liechtenstein"
+  },
+  { "img": "/img/negara/135-belarus.svg", "value": "belarus", "label": "belarus" },
+  { "img": "/img/negara/136-iran.svg", "value": "iran", "label": "iran" },
+  { "img": "/img/negara/137-fiji.svg", "value": "fiji", "label": "fiji" },
+  { "img": "/img/negara/138-bahrain.svg", "value": "bahrain", "label": "bahrain" },
+  { "img": "/img/negara/139-venezuela.svg", "value": "venezuela", "label": "venezuela" },
+  { "img": "/img/negara/140-east-timor.svg", "value": "east-timor", "label": "east timor" },
+  { "img": "/img/negara/141-azerbaijan.svg", "value": "azerbaijan", "label": "azerbaijan" },
+  { "img": "/img/negara/142-tibet.svg", "value": "tibet", "label": "tibet" },
+  { "img": "/img/negara/143-norway.svg", "value": "norway", "label": "norway" },
+  { "img": "/img/negara/144-algeria.svg", "value": "algeria", "label": "algeria" },
+  { "img": "/img/negara/145-ukraine.svg", "value": "ukraine", "label": "ukraine" },
+  { "img": "/img/negara/146-gambia.svg", "value": "gambia", "label": "gambia" },
+  { "img": "/img/negara/147-bangladesh.svg", "value": "bangladesh", "label": "bangladesh" },
+  { "img": "/img/negara/148-madeira.svg", "value": "madeira", "label": "madeira" },
+  {
+    "img": "/img/negara/149-czech-republic.svg",
+    "value": "czech-republic",
+    "label": "czech republic"
+  },
+  { "img": "/img/negara/150-bolivia.svg", "value": "bolivia", "label": "bolivia" },
+  {
+    "img": "/img/negara/151-united-arab-emirates.svg",
+    "value": "united-arab-emirates",
+    "label": "united arab emirates"
+  },
+  { "img": "/img/negara/152-kyrgyzstan.svg", "value": "kyrgyzstan", "label": "kyrgyzstan" },
+  { "img": "/img/negara/153-cuba.svg", "value": "cuba", "label": "cuba" },
+  { "img": "/img/negara/154-swaziland.svg", "value": "swaziland", "label": "swaziland" },
+  { "img": "/img/negara/155-israel.svg", "value": "israel", "label": "israel" },
+  { "img": "/img/negara/156-costa-rica.svg", "value": "costa-rica", "label": "costa rica" },
+  {
+    "img": "/img/negara/157-republic-of-the-congo.svg",
+    "value": "republic-of-the-congo",
+    "label": "republic of the congo"
+  },
+  { "img": "/img/negara/158-egypt.svg", "value": "egypt", "label": "egypt" },
+  { "img": "/img/negara/159-cambodia.svg", "value": "cambodia", "label": "cambodia" },
+  {
+    "img": "/img/negara/160-northern-marianas-islands.svg",
+    "value": "northern-marianas-islands",
+    "label": "northern marianas islands"
+  },
+  {
+    "img": "/img/negara/161-ivory-coast.svg",
+    "value": "ivory-coast",
+    "label": "ivory coast"
+  },
+  { "img": "/img/negara/162-germany.svg", "value": "germany", "label": "germany" },
+  {
+    "img": "/img/negara/163-papua-new-guinea.svg",
+    "value": "papua-new-guinea",
+    "label": "papua new guinea"
+  },
+  { "img": "/img/negara/164-croatia.svg", "value": "croatia", "label": "croatia" },
+  { "img": "/img/negara/165-belgium.svg", "value": "belgium", "label": "belgium" },
+  { "img": "/img/negara/166-morocco.svg", "value": "morocco", "label": "morocco" },
+  { "img": "/img/negara/167-macao.svg", "value": "macao", "label": "macao" },
+  { "img": "/img/negara/168-bulgaria.svg", "value": "bulgaria", "label": "bulgaria" },
+  { "img": "/img/negara/169-liberia.svg", "value": "liberia", "label": "liberia" },
+  { "img": "/img/negara/170-greece.svg", "value": "greece", "label": "greece" },
+  {
+    "img": "/img/negara/171-galapagos-islands.svg",
+    "value": "galapagos-islands",
+    "label": "galapagos islands"
+  },
+  { "img": "/img/negara/172-st-lucia.svg", "value": "st-lucia", "label": "st lucia" },
+  { "img": "/img/negara/173-mali.svg", "value": "mali", "label": "mali" },
+  { "img": "/img/negara/174-denmark.svg", "value": "denmark", "label": "denmark" },
+  { "img": "/img/negara/175-rapa-nui.svg", "value": "rapa-nui", "label": "rapa nui" },
+  { "img": "/img/negara/176-lesotho.svg", "value": "lesotho", "label": "lesotho" },
+  { "img": "/img/negara/177-colombia.svg", "value": "colombia", "label": "colombia" },
+  { "img": "/img/negara/178-palau.svg", "value": "palau", "label": "palau" },
+  { "img": "/img/negara/179-ireland.svg", "value": "ireland", "label": "ireland" },
+  {
+    "img": "/img/negara/180-french-polynesia.svg",
+    "value": "french-polynesia",
+    "label": "french polynesia"
+  },
+  {
+    "img": "/img/negara/181-trinidad-and-tobago.svg",
+    "value": "trinidad-and-tobago",
+    "label": "trinidad and tobago"
+  },
+  { "img": "/img/negara/182-niue.svg", "value": "niue", "label": "niue" },
+  { "img": "/img/negara/183-hong-kong.svg", "value": "hong-kong", "label": "hong kong" },
+  { "img": "/img/negara/184-sweden.svg", "value": "sweden", "label": "sweden" },
+  { "img": "/img/negara/185-haiti.svg", "value": "haiti", "label": "haiti" },
+  { "img": "/img/negara/186-dominica.svg", "value": "dominica", "label": "dominica" },
+  { "img": "/img/negara/187-vanuatu.svg", "value": "vanuatu", "label": "vanuatu" },
+  { "img": "/img/negara/188-peru.svg", "value": "peru", "label": "peru" },
+  {
+    "img": "/img/negara/189-equatorial-guinea.svg",
+    "value": "equatorial-guinea",
+    "label": "equatorial guinea"
+  },
+  { "img": "/img/negara/190-uzbekistn.svg", "value": "uzbekistn", "label": "uzbekistn" },
+  { "img": "/img/negara/191-tonga.svg", "value": "tonga", "label": "tonga" },
+  {
+    "img": "/img/negara/192-philippines.svg",
+    "value": "philippines",
+    "label": "philippines"
+  },
+  {
+    "img": "/img/negara/193-norfolk-island.svg",
+    "value": "norfolk-island",
+    "label": "norfolk island"
+  },
+  { "img": "/img/negara/194-malta.svg", "value": "malta", "label": "malta" },
+  { "img": "/img/negara/195-france.svg", "value": "france", "label": "france" },
+  { "img": "/img/negara/196-tajikistan.svg", "value": "tajikistan", "label": "tajikistan" },
+  { "img": "/img/negara/197-melilla.svg", "value": "melilla", "label": "melilla" },
+  { "img": "/img/negara/198-argentina.svg", "value": "argentina", "label": "argentina" },
+  { "img": "/img/negara/199-sudan.svg", "value": "sudan", "label": "sudan" },
+  {
+    "img": "/img/negara/200-south-africa.svg",
+    "value": "south-africa",
+    "label": "south africa"
+  },
+  { "img": "/img/negara/201-martinique.svg", "value": "martinique", "label": "martinique" },
+  { "img": "/img/negara/202-taiwan.svg", "value": "taiwan", "label": "taiwan" },
+  {
+    "img": "/img/negara/203-sahrawi-arab-democratic-republic.svg",
+    "value": "sahrawi-arab-democratic-republic",
+    "label": "sahrawi arab democratic republic"
+  },
+  { "img": "/img/negara/204-guernsey.svg", "value": "guernsey", "label": "guernsey" },
+  {
+    "img": "/img/negara/205-switzerland.svg",
+    "value": "switzerland",
+    "label": "switzerland"
+  },
+  { "img": "/img/negara/206-rwanda.svg", "value": "rwanda", "label": "rwanda" },
+  { "img": "/img/negara/207-guam.svg", "value": "guam", "label": "guam" },
+  { "img": "/img/negara/208-palestine.svg", "value": "palestine", "label": "palestine" },
+  { "img": "/img/negara/209-indonesia.svg", "value": "indonesia", "label": "indonesia" },
+  { "img": "/img/negara/210-grenada.svg", "value": "grenada", "label": "grenada" },
+  { "img": "/img/negara/211-poland.svg", "value": "poland", "label": "poland" },
+  { "img": "/img/negara/212-moldova.svg", "value": "moldova", "label": "moldova" },
+  { "img": "/img/negara/213-gibraltar.svg", "value": "gibraltar", "label": "gibraltar" },
+  { "img": "/img/negara/214-malawi.svg", "value": "malawi", "label": "malawi" },
+  {
+    "img": "/img/negara/215-falkland-islands.svg",
+    "value": "falkland-islands",
+    "label": "falkland islands"
+  },
+  { "img": "/img/negara/216-england.svg", "value": "england", "label": "england" },
+  {
+    "img": "/img/negara/217-virgin-islands.svg",
+    "value": "virgin-islands",
+    "label": "virgin islands"
+  },
+  { "img": "/img/negara/218-turkey.svg", "value": "turkey", "label": "turkey" },
+  {
+    "img": "/img/negara/219-isle-of-man.svg",
+    "value": "isle-of-man",
+    "label": "isle of man"
+  },
+  { "img": "/img/negara/220-vietnam.svg", "value": "vietnam", "label": "vietnam" },
+  { "img": "/img/negara/221-tuvalu.svg", "value": "tuvalu", "label": "tuvalu" },
+  { "img": "/img/negara/222-niger.svg", "value": "niger", "label": "niger" },
+  {
+    "img": "/img/negara/223-turks-and-caicos.svg",
+    "value": "turks-and-caicos",
+    "label": "turks and caicos"
+  },
+  { "img": "/img/negara/224-portugal.svg", "value": "portugal", "label": "portugal" },
+  { "img": "/img/negara/225-maldives.svg", "value": "maldives", "label": "maldives" },
+  {
+    "img": "/img/negara/226-united-states.svg",
+    "value": "united-states",
+    "label": "united states"
+  },
+  { "img": "/img/negara/227-senegal.svg", "value": "senegal", "label": "senegal" },
+  { "img": "/img/negara/228-nauru.svg", "value": "nauru", "label": "nauru" },
+  {
+    "img": "/img/negara/229-turkmenistan.svg",
+    "value": "turkmenistan",
+    "label": "turkmenistan"
+  },
+  { "img": "/img/negara/230-singapore.svg", "value": "singapore", "label": "singapore" },
+  { "img": "/img/negara/231-libya.svg", "value": "libya", "label": "libya" },
+  { "img": "/img/negara/232-yemen.svg", "value": "yemen", "label": "yemen" },
+  {
+    "img": "/img/negara/233-transnistria.svg",
+    "value": "transnistria",
+    "label": "transnistria"
+  },
+  { "img": "/img/negara/234-australia.svg", "value": "australia", "label": "australia" },
+  { "img": "/img/negara/235-tokelau.svg", "value": "tokelau", "label": "tokelau" },
+  {
+    "img": "/img/negara/236-republic-of-macedonia.svg",
+    "value": "republic-of-macedonia",
+    "label": "republic of macedonia"
+  },
+  {
+    "img": "/img/negara/237-netherlands.svg",
+    "value": "netherlands",
+    "label": "netherlands"
+  },
+  { "img": "/img/negara/238-thailand.svg", "value": "thailand", "label": "thailand" },
+  { "img": "/img/negara/239-montenegro.svg", "value": "montenegro", "label": "montenegro" },
+  {
+    "img": "/img/negara/240-azores-islands.svg",
+    "value": "azores-islands",
+    "label": "azores islands"
+  },
+  {
+    "img": "/img/negara/241-st-vincent-and-the-grenadines.svg",
+    "value": "st-vincent-and-the-grenadines",
+    "label": "st vincent and the grenadines"
+  },
+  { "img": "/img/negara/242-madagascar.svg", "value": "madagascar", "label": "madagascar" },
+  { "img": "/img/negara/243-canada.svg", "value": "canada", "label": "canada" },
+  {
+    "img": "/img/negara/244-south-sudan.svg",
+    "value": "south-sudan",
+    "label": "south sudan"
+  },
+  { "img": "/img/negara/245-jersey.svg", "value": "jersey", "label": "jersey" },
+  { "img": "/img/negara/246-india.svg", "value": "india", "label": "india" },
+  { "img": "/img/negara/247-somaliland.svg", "value": "somaliland", "label": "somaliland" },
+  { "img": "/img/negara/248-russia.svg", "value": "russia", "label": "russia" },
+  {
+    "img": "/img/negara/249-democratic-republic-of-congo.svg",
+    "value": "democratic-republic-of-congo",
+    "label": "democratic republic of congo"
+  },
+  {
+    "img": "/img/negara/250-sint-eustatius.svg",
+    "value": "sint-eustatius",
+    "label": "sint eustatius"
+  },
+  { "img": "/img/negara/251-samoa.svg", "value": "samoa", "label": "samoa" },
+  { "img": "/img/negara/252-mexico.svg", "value": "mexico", "label": "mexico" },
+  { "img": "/img/negara/253-seychelles.svg", "value": "seychelles", "label": "seychelles" },
+  { "img": "/img/negara/254-nato.svg", "value": "nato", "label": "nato" },
+  { "img": "/img/negara/255-brazil.svg", "value": "brazil", "label": "brazil" },
+  { "img": "/img/negara/256-georgia.svg", "value": "georgia", "label": "georgia" },
+  { "img": "/img/negara/257-sardinia.svg", "value": "sardinia", "label": "sardinia" },
+  { "img": "/img/negara/258-mongolia.svg", "value": "mongolia", "label": "mongolia" },
+  {
+    "img": "/img/negara/259-european-union.svg",
+    "value": "european-union",
+    "label": "european union"
+  },
+  {
+    "img": "/img/negara/260-united-kingdom.svg",
+    "value": "united-kingdom",
+    "label": "united kingdom"
+  },
+  { "img": "/img/negara/261-kiribati.svg", "value": "kiribati", "label": "kiribati" },
+  { "img": "/img/negara/262-hawaii.svg", "value": "hawaii", "label": "hawaii" }
+]

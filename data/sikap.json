@@ -1,0 +1,11 @@
+[
+  { "label": "Tekun", "value": "1" },
+  { "label": "Jujur", "value": "2" },
+  { "label": "Sopan santun", "value": "3" },
+  { "label": "Disiplin", "value": "4" },
+  { "label": "Percaya diri", "value": "5" },
+  { "label": "Bekerja sama", "value": "6" },
+  { "label": "Sopan santun", "value": "7" },
+  { "label": "Tanggung jawab", "value": "8" },
+  { "label": "Gotong royong", "value": "9" }
+]

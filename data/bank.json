@@ -1,0 +1,747 @@
+[
+  {
+    "label": "Bank Central Asia (BCA)",
+    "value": "BCA",
+    "img": "/img/bank/BCA.png"
+  },
+  {
+    "label": "Bank Danamon",
+    "value": "DANAMON",
+    "img": "/img/bank/danamon.jpg"
+  },
+  {
+    "label": "Bank Artha Graha International",
+    "value": "ARTHA",
+    "img": "/img/bank/Artha Graha.png"
+  },
+  {
+    "label": "Bank ANZ Indonesia",
+    "value": "ANZ",
+    "img": "/img/bank/ANZ-bank.png"
+  },
+  {
+    "label": "Bank BJB",
+    "value": "BJB",
+    "img": "/img/bank/Bjb.png"
+  },
+  {
+    "label": "Bank BJB Syariah",
+    "value": "BJB_SYR",
+    "img": "/img/bank/bjb syariah.png"
+  },
+  {
+    "label": "Bank Permata",
+    "value": "PERMATA",
+    "img": "/img/bank/permata bank.png"
+  },
+  {
+    "label": "Bank Panin",
+    "value": "PANIN",
+    "img": "/img/bank/panin bank.png"
+  },
+  {
+    "label": "Bank Capital Indonesia",
+    "value": "CAPITAL",
+    "img": "/img/bank/bank capital.png"
+  },
+  {
+    "label": "Bank Artos Indonesia",
+    "value": "ARTOS",
+    "img": "/img/bank/Bank Artos.png"
+  },
+  {
+    "label": "Bank Bumi Arta",
+    "value": "BUMI_ARTA",
+    "img": "/img/bank/LOGO BANK BUMI ARTA.png"
+  },
+  {
+    "label": "Bank BNI Syariah",
+    "value": "BNI_SYR",
+    "img": "/img/bank/bni syariah.png"
+  },
+  {
+    "label": "Bank Bukopin",
+    "value": "BUKOPIN",
+    "img": "/img/bank/bank bukopin.png"
+  },
+  {
+    "label": "Bank BRI Agroniaga",
+    "value": "AGRONIAGA",
+    "img": "/img/bank/bri agro.png"
+  },
+  {
+    "label": "Bank Mandiri",
+    "value": "MANDIRI",
+    "img": "/img/bank/Bank Mandiri.png"
+  },
+  {
+    "label": "Bank Agris",
+    "value": "AGRIS",
+    "img": "/img/bank/agris bank.png"
+  },
+  {
+    "label": "Bank CIMB Niaga",
+    "value": "CIMB",
+    "img": "/img/bank/cimb niaga.png"
+  },
+  {
+    "label": "Bank Sinarmas",
+    "value": "SINARMAS",
+    "img": "/img/bank/sinarmas.png"
+  },
+  {
+    "label": "Bangkok Bank",
+    "value": "BANGKOK",
+    "img": "/img/bank/bangkok bank.png"
+  },
+  {
+    "label": "Bank Bisnis Internasional",
+    "value": "BISNIS_INTERNASIONAL",
+    "img": "/img/bank/Bank Bisnis.png"
+  },
+  {
+    "label": "Anglomas International Bank",
+    "value": "ANGLOMAS",
+    "img": "/img/bank/Anglomas International Bank.png"
+  },
+  {
+    "label": "Bank Andara",
+    "value": "ANDARA",
+    "img": "/img/bank/LOGO BANK ANDARA.png"
+  },
+  {
+    "label": "Bank BNP Paribas",
+    "value": "BNP_PARIBAS",
+    "img": "/img/bank/bnp paribas.png"
+  },
+  {
+    "label": "Bank Commonwealth",
+    "value": "COMMONWEALTH",
+    "img": "/img/bank/Commonwealth.jpg"
+  },
+  {
+    "label": "Bank Central Asia (BCA) Syariah",
+    "value": "BCA_SYR",
+    "img": "/img/bank/bca syariah.png"
+  },
+  {
+    "label": "Bank Danamon UUS",
+    "value": "DANAMON_UUS",
+    "img": "/img/bank/Danamon Syariah.jfif "
+  },
+  {
+    "label": "Bank Ina Perdania",
+    "value": "INA_PERDANA",
+    "img": "/img/bank/Bank Ina.png"
+  },
+  {
+    "label": "Bank DKI",
+    "value": "DKI",
+    "img": "/img/bank/dki.png"
+  },
+  {
+    "label": "Bank Ganesha",
+    "value": "GANESHA",
+    "img": "/img/bank/Bank Ganesha.png"
+  },
+  {
+    "label": "Bank Chinatrust Indonesia",
+    "value": "CHINATRUST",
+    "img": "/img/bank/chinatrust.jpg"
+  },
+  {
+    "label": "Bank Hana",
+    "value": "HANA",
+    "img": "/img/bank/hana.jpeg"
+  },
+  {
+    "label": "Bank Dinar Indonesia",
+    "value": "DINAR_INDONESIA",
+    "img": "/img/bank/Bank Dinar.png"
+  },
+  {
+    "label": "Bank CIMB Niaga UUS",
+    "value": "CIMB_UUS",
+    "img": "/img/bank/cimb niaga syariah.png"
+  },
+  {
+    "label": "Bank DKI UUS",
+    "value": "DKI_UUS",
+    "img": "/img/bank/dki syariah.jfif"
+  },
+  {
+    "label": "Bank Fama International",
+    "value": "FAMA",
+    "img": "/img/bank/Fama Bank.png"
+  },
+  {
+    "label": "Bank Himpunan Saudara 1906",
+    "value": "HIMPUNAN_SAUDARA",
+    "img": "/img/bank/LOGO BANK SAUDARA.JPG"
+  },
+  {
+    "label": "Bank ICBC Indonesia",
+    "value": "ICBC",
+    "img": "/img/bank/ICBC_logo.png"
+  },
+  {
+    "label": "Bank Harda Internasional",
+    "value": "HARDA_INTERNASIONAL",
+    "img": "/img/bank/harda Internasional.png"
+  },
+  {
+    "label": "Bank DBS Indonesia",
+    "value": "DBS",
+    "img": "/img/bank/DBS.jfif"
+  },
+  {
+    "label": "Bank Index Selindo",
+    "value": "INDEX_SELINDO",
+    "img": "/img/bank/indeks.jfif"
+  },
+  {
+    "label": "Bank Panin Syariah",
+    "value": "PANIN_SYR",
+    "img": "/img/bank/panin syariah.png"
+  },
+  {
+    "label": "BPD Jawa Tengah UUS",
+    "value": "JAWA_TENGAH_UUS",
+    "img": "/img/bank/Jateng Syariah.jfif"
+  },
+  {
+    "label": "BPD Kalimantan Timur UUS",
+    "value": "KALIMANTAN_TIMUR_UUS",
+    "img": "/img/bank/Kaltim Syariah.png"
+  },
+  {
+    "label": "Bank Tabungan Negara (BTN) UUS",
+    "value": "BTN_UUS",
+    "img": "/img/bank/BTN Syariah.png"
+  },
+  {
+    "label": "BPD Aceh UUS",
+    "value": "ACEH_UUS",
+    "img": "/img/bank/aceh syariah.png"
+  },
+  {
+    "label": "BPD Kalimantan Barat UUS",
+    "value": "KALIMANTAN_BARAT_UUS",
+    "img": "/img/bank/Kalbar Syariah.png"
+  },
+  {
+    "label": "Bank Jasa Jakarta",
+    "value": "JASA_JAKARTA",
+    "img": "/img/bank/bjj.png"
+  },
+  {
+    "label": "BPD Daerah Istimewa Yogyakarta (DIY)",
+    "value": "DAERAH_ISTIMEWA",
+    "img": "/img/bank/diy.jfif"
+  },
+  {
+    "label": "BPD Kalimantan Barat",
+    "value": "KALIMANTAN_BARAT",
+    "img": "/img/bank/bpd kalbar.png"
+  },
+  {
+    "label": "Bank Maspion Indonesia",
+    "value": "MASPION",
+    "img": "/img/bank/maspion.png"
+  },
+  {
+    "label": "Bank Mayapada International",
+    "value": "MAYAPADA",
+    "img": "/img/bank/mayapada.jfif"
+  },
+  {
+    "label": "Bank Syariah BRI",
+    "value": "BRI_SYR",
+    "img": "/img/bank/bri.png"
+  },
+  {
+    "label": "Bank Tabungan Pensiunan Nasional",
+    "value": "TABUNGAN_PENSIUNAN_NASIONAL",
+    "img": "/img/bank/btpn.png"
+  },
+  {
+    "label": "Bank Victoria Internasional",
+    "value": "VICTORIA_INTERNASIONAL",
+    "img": "/img/bank/victoria.png"
+  },
+  {
+    "label": "BPD Bali",
+    "value": "BALI",
+    "img": "/img/bank/bali.png"
+  },
+  {
+    "label": "BPD Jawa Tengah",
+    "value": "JAWA_TENGAH",
+    "img": "/img/bank/bpd jateng.jfif"
+  },
+  {
+    "label": "BPD Kalimantan Selatan",
+    "value": "KALIMANTAN_SELATAN",
+    "img": "/img/bank/Bank Kalsel.png"
+  },
+  {
+    "label": "Bank Maybank Syariah Indonesia",
+    "value": "MAYBANK_SYR",
+    "img": "/img/bank/maybank Syariah.png"
+  },
+  {
+    "label": "Bank Sahabat Sampoerna",
+    "value": "SAHABAT_SAMPOERNA",
+    "img": "/img/bank/sampoerna.jfif"
+  },
+  {
+    "label": "BPD Kalimantan Selatan UUS",
+    "value": "KALIMANTAN_SELATAN_UUS",
+    "img": "/img/bank/Bank Kalsel Syariah.jfif"
+  },
+  {
+    "label": "BPD Kalimantan Tengah",
+    "value": "KALIMANTAN_TENGAH",
+    "img": "/img/bank/Kalteng.png"
+  },
+  {
+    "label": "Bank Muamalat Indonesia",
+    "value": "MUAMALAT",
+    "img": "/img/bank/victoria.png"
+  },
+  {
+    "label": "Bank Syariah Bukopin",
+    "value": "BUKOPIN_SYR",
+    "img": "/img/bank/Bukopin Syariah.png"
+  },
+  {
+    "label": "Bank Nusantara Parahyangan",
+    "value": "NUSANTARA_PARAHYANGAN",
+    "img": "/img/bank/Nusantara Parahyangan.jfif"
+  },
+  {
+    "label": "BPD Jambi UUS",
+    "value": "JAMBI_UUS",
+    "img": "/img/bank/Jambi Syariah.jfif"
+  },
+  {
+    "label": "BPD Jawa Timur",
+    "value": "JAWA_TIMUR",
+    "img": "/img/bank/Bank jatim.png"
+  },
+  {
+    "label": "Bank Mega",
+    "value": "MEGA",
+    "img": "/img/bank/Bank Mega.png"
+  },
+  {
+    "label": "BPD Daerah Istimewa Yogyakarta (DIY) UUS",
+    "value": "DAERAH_ISTIMEWA_UUS",
+    "img": "/img/bank/DIY Syariah.png"
+  },
+  {
+    "label": "BPD Kalimantan Timur",
+    "value": "KALIMANTAN_TIMUR",
+    "img": "/img/bank/Kaltim.jfif"
+  },
+  {
+    "label": "Bank Multi Arta Sentosa",
+    "value": "MULTI_ARTA_SENTOSA",
+    "img": "/img/bank/Bank Mas.jfif"
+  },
+  {
+    "label": "Bank OCBC NISP",
+    "value": "OCBC",
+    "img": "/img/bank/ocbc nisp.jfif"
+  },
+  {
+    "label": "Bank Nationalnobu",
+    "value": "NATIONALNOBU",
+    "img": "/img/bank/Nobu Bank.jfif"
+  },
+  {
+    "label": "Bank of China (BOC)",
+    "value": "BOC",
+    "img": "/img/bank/Bank of china.png"
+  },
+  {
+    "label": "Bank Tabungan Negara (BTN)",
+    "value": "BTN",
+    "img": "/img/bank/btn.jfif"
+  },
+  {
+    "label": "BPD Bengkulu",
+    "value": "BENGKULU",
+    "img": "/img/bank/Bengkulu.png"
+  },
+  {
+    "label": "Bank Resona Perdania",
+    "value": "RESONA",
+    "img": "/img/bank/Resona.png"
+  },
+  {
+    "label": "Bank Syariah Mandiri",
+    "value": "MANDIRI_SYR",
+    "img": "/img/bank/Mandiri Syariah.png"
+  },
+  {
+    "label": "Bank Woori Indonesia",
+    "value": "WOORI",
+    "img": "/img/bank/BWS.png"
+  },
+  {
+    "label": "Bank Yudha Bhakti",
+    "value": "YUDHA_BHAKTI",
+    "img": "/img/bank/Bank Yudha Bhakti.jfif"
+  },
+  {
+    "label": "BPD Aceh",
+    "value": "ACEH",
+    "img": "/img/bank/bpd aceh.png"
+  },
+  {
+    "label": "Bank Mayora",
+    "value": "MAYORA",
+    "img": "/img/bank/Bank Mayora.png"
+  },
+  {
+    "label": "Bank of America Merill-Lynch",
+    "value": "BAML",
+    "img": "/img/bank/Merrill lynch.jfif"
+  },
+  {
+    "label": "Bank Permata UUS",
+    "value": "PERMATA_UUS",
+    "img": "/img/bank/Permata Syariah.png"
+  },
+  {
+    "label": "Bank Kesejahteraan Ekonomi",
+    "value": "KESEJAHTERAAN_EKONOMI",
+    "img": "/img/bank/Bank Kesejahteraan.jfif"
+  },
+  {
+    "label": "Bank OCBC NISP UUS",
+    "value": "OCBC_UUS",
+    "img": "/img/bank/ocbc nisp syariah.png"
+  },
+  {
+    "label": "Bank Rabobank International Indonesia",
+    "value": "RABOBANK",
+    "img": "/img/bank/rabobank internasional.png"
+  },
+  {
+    "label": "Bank Royal Indonesia",
+    "value": "ROYAL",
+    "img": "/img/bank/Royal Bank.jfif"
+  },
+  {
+    "label": "Bank Sumitomo Mitsui Indonesia",
+    "value": "MITSUI",
+    "img": "/img/bank/SMFG.png"
+  },
+  {
+    "label": "Bank UOB Indonesia",
+    "value": "UOB",
+    "img": "/img/bank/UOB.png"
+  },
+  {
+    "label": "Bank of India Indonesia",
+    "value": "INDIA",
+    "img": "/img/bank/bank of india.png"
+  },
+  {
+    "label": "Bank SBI Indonesia",
+    "value": "SBI_INDONESIA",
+    "img": "/img/bank/Sbi Indonesia.jfif"
+  },
+  {
+    "label": "Bank Syariah Mega",
+    "value": "MEGA_SYR",
+    "img": "/img/bank/Mega Syariah.jfif"
+  },
+  {
+    "label": "BPD Jambi",
+    "value": "JAMBI",
+    "img": "/img/bank/Bank Jambi.png"
+  },
+  {
+    "label": "BPD Jawa Timur UUS",
+    "value": "JAWA_TIMUR_UUS",
+    "img": "/img/bank/Bank jatim.png"
+  },
+  {
+    "label": "Bank Mizuho Indonesia",
+    "value": "MIZUHO",
+    "img": "/img/bank/Mizuho.png"
+  },
+  {
+    "label": "Bank MNC Internasional",
+    "value": "MNC_INTERNASIONAL",
+    "img": "/img/bank/Mnc Bank.png"
+  },
+  {
+    "label": "Bank of Tokyo Mitsubishi UFJ",
+    "value": "TOKYO",
+    "img": "/img/bank/MUFG.png"
+  },
+  {
+    "label": "Bank Victoria Syariah",
+    "value": "VICTORIA_SYR",
+    "img": "/img/bank/victoria syariah.png"
+  },
+  {
+    "label": "BPD Lampung",
+    "value": "LAMPUNG",
+    "img": "/img/bank/Lampung.png"
+  },
+  {
+    "label": "BPD Maluku",
+    "value": "MALUKU",
+    "img": "/img/bank/Maluku.png"
+  },
+  {
+    "label": "BPD Sumsel Dan Babel UUS",
+    "value": "SUMSEL_DAN_BABEL_UUS",
+    "img": "/img/bank/sumselbabel syariah.jfif"
+  },
+  {
+    "label": "Bank Maybank",
+    "value": "MAYBANK",
+    "img": "/img/bank/Maybank.jfif"
+  },
+  {
+    "label": "JP Morgan Chase Bank",
+    "value": "JPMORGAN",
+    "img": "/img/bank/JP Morgan.png"
+  },
+  {
+    "label": "BPD Sulselbar UUS",
+    "value": "SULSELBAR_UUS",
+    "img": "/img/bank/sulselbar syariah.jfif"
+  },
+  {
+    "label": "BPD Sulawesi Tenggara",
+    "value": "SULAWESI_TENGGARA",
+    "img": "/img/bank/sulteng.png"
+  },
+  {
+    "label": "BPD Nusa Tenggara Barat",
+    "value": "NUSA_TENGGARA_BARAT",
+    "img": "/img/bank/ntb.jfif"
+  },
+  {
+    "label": "BPD Riau Dan Kepri UUS",
+    "value": "RIAU_DAN_KEPRI_UUS",
+    "img": "/img/bank/riaukepri.jfif"
+  },
+  {
+    "label": "BPD Sulut",
+    "value": "SULUT",
+    "img": "/img/bank/sulut.jfif"
+  },
+  {
+    "label": "BPD Sumut",
+    "value": "SUMUT",
+    "img": "/img/bank/sumut.png"
+  },
+  {
+    "label": "Deutsche Bank",
+    "value": "DEUTSCHE",
+    "img": "/img/bank/deutsche.png"
+  },
+  {
+    "label": "Standard Charted Bank",
+    "value": "STANDARD_CHARTERED",
+    "img": "/img/bank/standard chartered.png"
+  },
+  {
+    "label": "Bank Rakyat Indonesia (BRI)",
+    "value": "BRI",
+    "img": "/img/bank/bri.jfif"
+  },
+  {
+    "label": "HSBC Indonesia (formerly Bank Ekonomi Raharja)",
+    "value": "HSBC",
+    "img": "/img/bank/hsbc.png"
+  },
+  {
+    "label": "BPD Sulselbar",
+    "value": "SULSELBAR",
+    "img": "/img/bank/sulselbar.png"
+  },
+  {
+    "label": "BPD Sumatera Barat UUS",
+    "value": "SUMATERA_BARAT_UUS",
+    "img": "/img/bank/sumbar syariah.jfif"
+  },
+  {
+    "label": "BPD Nusa Tenggara Barat UUS",
+    "value": "NUSA_TENGGARA_BARAT_UUS",
+    "img": "/img/bank/ntb syariah.png"
+  },
+  {
+    "label": "Hongkong and Shanghai Bank Corporation (HSBC) UUS",
+    "value": "HSBC_UUS",
+    "img": "/img/bank/hsbc syariah.png"
+  },
+  {
+    "label": "BPD Papua",
+    "value": "PAPUA",
+    "img": "/img/bank/papua.png"
+  },
+  {
+    "label": "BPD Sulawesi Tengah",
+    "value": "SULAWESI",
+    "img": "/img/bank/sulteng.png"
+  },
+  {
+    "label": "BPD Sumatera Barat",
+    "value": "SUMATERA_BARAT",
+    "img": "/img/bank/sumbar.png"
+  },
+  {
+    "label": "BPD Sumut UUS",
+    "value": "SUMUT_UUS",
+    "img": "/img/bank/sumut syariah.jfif"
+  },
+  {
+    "label": "Bank Negara Indonesia (BNI)",
+    "value": "BNI",
+    "img": "/img/bank/bni.png"
+  },
+  {
+    "label": "Prima Master Bank",
+    "value": "PRIMA_MASTER",
+    "img": "/img/bank/prima master.png"
+  },
+  {
+    "label": "Bank Mitra Niaga",
+    "value": "MITRA_NIAGA",
+    "img": "/img/bank/mitra niaga.jfif"
+  },
+  {
+    "label": "BPD Nusa Tenggara Timur",
+    "value": "NUSA_TENGGARA_TIMUR",
+    "img": "/img/bank/ntt.png"
+  },
+  {
+    "label": "BPD Sumsel Dan Babel",
+    "value": "SUMSEL_DAN_BABEL",
+    "img": "/img/bank/sumselbabel.png"
+  },
+  {
+    "label": "Royal Bank of Scotland (RBS)",
+    "value": "RBS",
+    "img": "/img/bank/royal bank scotland.png"
+  },
+  {
+    "label": "Bank Arta Niaga Kencana",
+    "value": "ARTA_NIAGA_KENCANA",
+    "img": "/img/bank/arta niaga.jfif"
+  },
+  {
+    "label": "Citibank",
+    "value": "CITIBANK",
+    "img": "/img/bank/citybank.png"
+  },
+  {
+    "label": "BPD Riau Dan Kepri",
+    "value": "RIAU_DAN_KEPRI",
+    "img": "/img/bank/riaukepri.jfif"
+  },
+  {
+    "label": "Centratama Nasional Bank",
+    "value": "CENTRATAMA",
+    "img": "/img/bank/centra tama.png"
+  },
+  {
+    "label": "Bank Oke Indonesia (formerly Bank Andara)",
+    "value": "OKE",
+    "img": "/img/bank/ok bank.jfif"
+  },
+  {
+    "label": "Mandiri E-Cash",
+    "value": "MANDIRI_ECASH",
+    "img": "/img/bank/mandiri e cash.png"
+  },
+  {
+    "label": "Bank Amar Indonesia (formerly Anglomas International Bank)",
+    "value": "AMAR",
+    "img": "/img/bank/amar bank.jfif"
+  },
+  {
+    "label": "GoPay",
+    "value": "GOPAY",
+    "img": "/img/bank/gopay.png"
+  },
+  {
+    "label": "Bank Sinarmas UUS",
+    "value": "SINARMAS_UUS",
+    "img": "/img/bank/sinarmas syariah.png"
+  },
+  {
+    "label": "OVO",
+    "value": "OVO",
+    "img": "/img/bank/ovo.png"
+  },
+  {
+    "label": "Indonesia Eximbank (formerly Bank Ekspor Indonesia)",
+    "value": "EXIMBANK",
+    "img": "/img/bank/eximbank.png"
+  },
+  {
+    "label": "Bank JTrust Indonesia (formerly Bank Mutiara)",
+    "value": "JTRUST",
+    "img": "/img/bank/jtrust bank.png"
+  },
+  {
+    "label": "Bank Woori Saudara Indonesia 1906 (formerly Bank Himpunan Saudara and Bank Woori Indonesia)",
+    "value": "WOORI_SAUDARA",
+    "img": "/img/bank/woori saudara.jfif"
+  },
+  {
+    "label": "BTPN Syariah (formerly BTPN UUS and Bank Sahabat Purba Danarta)",
+    "value": "BTPN_SYARIAH",
+    "img": "/img/bank/btpn syariah.png"
+  },
+  {
+    "label": "Bank Shinhan Indonesia (formerly Bank Metro Express)",
+    "value": "SHINHAN",
+    "img": "/img/bank/shinhan.png"
+  },
+  {
+    "label": "BPD Banten (formerly Bank Pundi Indonesia)",
+    "value": "BANTEN",
+    "img": "/img/bank/banten.png"
+  },
+  {
+    "label": "China Construction Bank Indonesia (formerly Bank Antar Daerah and Bank Windu Kentjana International)",
+    "value": "CCB",
+    "img": "/img/bank/china construction bank.png"
+  },
+  {
+    "label": "Mandiri Taspen Pos (formerly Bank Sinar Harapan Bali)",
+    "value": "MANDIRI_TASPEN",
+    "img": "/img/bank/mandiri taspen.png"
+  },
+  {
+    "label": "Bank QNB Indonesia (formerly Bank QNB Kesawan)",
+    "value": "QNB_INDONESIA",
+    "img": "/img/bank/qnb.jfif"
+  },
+  {
+    "label": "DANA",
+    "value": "DANA",
+    "img": "/img/bank/Dana.png"
+  },
+  {
+    "label": "LinkAja",
+    "value": "LINKAJA",
+    "img": "/img/bank/linkaja.png"
+  },
+  {
+    "label": "ShopeePay",
+    "value": "SHOPEEPAY",
+    "img": "/img/bank/shopeepay.png"
+  }
+]

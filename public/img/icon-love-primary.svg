@@ -1,0 +1,14 @@
+<svg id="icon-love-primary" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="heart-solid" d="M12.715,32.81a3.765,3.765,0,0,0-5.137.374l-.542.559-.542-.559a3.764,3.764,0,0,0-5.137-.374,3.953,3.953,0,0,0-.273,5.723l5.327,5.5a.863.863,0,0,0,1.247,0l5.327-5.5A3.951,3.951,0,0,0,12.715,32.81Z" transform="translate(0.012 -31.967)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_111" data-name="Ellipse 111" cx="10" cy="10" r="10" fill="#d9eeff" opacity="0.7"/>
+  <g id="Group_1310" data-name="Group 1310" transform="translate(2.952 5.167)">
+    <path id="heart-solid-2" data-name="heart-solid" d="M12.715,32.81a3.765,3.765,0,0,0-5.137.374l-.542.559-.542-.559a3.764,3.764,0,0,0-5.137-.374,3.953,3.953,0,0,0-.273,5.723l5.327,5.5a.863.863,0,0,0,1.247,0l5.327-5.5A3.951,3.951,0,0,0,12.715,32.81Z" transform="translate(0.012 -31.967)" fill="#2680eb"/>
+    <g id="Mask_Group_1255" data-name="Mask Group 1255" clip-path="url(#clip-path)">
+      <circle id="Ellipse_125" data-name="Ellipse 125" cx="7.328" cy="7.328" r="7.328" transform="translate(-6.232 -3.948)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="graduation-cap-solid" d="M19.453,66.785l-8.717-2.678a2.5,2.5,0,0,0-1.462,0L.557,66.785a.736.736,0,0,0,0,1.425l1.52.467a2.463,2.463,0,0,0-.559,1.466.964.964,0,0,0-.08,1.657l-.8,3.59A.5.5,0,0,0,1.128,76H2.881a.5.5,0,0,0,.488-.608l-.8-3.59a.962.962,0,0,0-.056-1.641,1.474,1.474,0,0,1,.647-1.147l6.112,1.878a2.5,2.5,0,0,0,1.462,0l8.717-2.678A.736.736,0,0,0,19.453,66.785ZM11.03,71.844a3.5,3.5,0,0,1-2.05,0L4.448,70.452,4,74c0,1.1,2.686,2,6,2s6-.9,6-2l-.443-3.546Z" transform="translate(1018.203 345.002)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-rpp-sekolah" transform="translate(-180.413 -187.413)">
+    <circle id="Ellipse_98" data-name="Ellipse 98" cx="12" cy="12" r="12" transform="translate(180.413 187.413)" fill="#d9eeff" opacity="0.7"/>
+    <path id="graduation-cap-solid-2" data-name="graduation-cap-solid" d="M19.453,66.785l-8.717-2.678a2.5,2.5,0,0,0-1.462,0L.557,66.785a.736.736,0,0,0,0,1.425l1.52.467a2.463,2.463,0,0,0-.559,1.466.964.964,0,0,0-.08,1.657l-.8,3.59A.5.5,0,0,0,1.128,76H2.881a.5.5,0,0,0,.488-.608l-.8-3.59a.962.962,0,0,0-.056-1.641,1.474,1.474,0,0,1,.647-1.147l6.112,1.878a2.5,2.5,0,0,0,1.462,0l8.717-2.678A.736.736,0,0,0,19.453,66.785ZM11.03,71.844a3.5,3.5,0,0,1-2.05,0L4.448,70.452,4,74c0,1.1,2.686,2,6,2s6-.9,6-2l-.443-3.546Z" transform="translate(182.616 129.416)" fill="#2680eb"/>
+    <g id="Mask_Group_1256" data-name="Mask Group 1256" transform="translate(-835.587 -215.587)" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_126" data-name="Ellipse 126" cx="12" cy="11.5" rx="12" ry="11.5" transform="translate(1006 396)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

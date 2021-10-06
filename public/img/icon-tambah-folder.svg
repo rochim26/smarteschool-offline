@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="108.75" viewBox="0 0 120 108.75">
+  <defs>
+    <filter id="icon-tambah-folder" x="0" y="0" width="120" height="108.75" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_2661" data-name="Path 2661" d="M40.781,69.625H23.906L18.281,64H4.219A4.219,4.219,0,0,0,0,68.219V93.531A4.219,4.219,0,0,0,4.219,97.75H40.781A4.219,4.219,0,0,0,45,93.531V73.844A4.219,4.219,0,0,0,40.781,69.625Z" transform="translate(507 250.25)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-tambah-folder-2" data-name="icon-tambah-folder" transform="translate(-469.5 -286.75)">
+    <g transform="matrix(1, 0, 0, 1, 469.5, 286.75)" filter="url(#icon-tambah-folder)">
+      <path id="icon-tambah-folder-3" data-name="icon-tambah-folder" d="M40.781,69.625H23.906L18.281,64H4.219A4.219,4.219,0,0,0,0,68.219V93.531A4.219,4.219,0,0,0,4.219,97.75H40.781A4.219,4.219,0,0,0,45,93.531V73.844A4.219,4.219,0,0,0,40.781,69.625Z" transform="translate(37.5 -36.5)" fill="#2680eb"/>
+    </g>
+    <g id="Mask_Group_1367" data-name="Mask Group 1367" clip-path="url(#clip-path)">
+      <ellipse id="Ellipse_393" data-name="Ellipse 393" cx="22.354" cy="21.854" rx="22.354" ry="21.854" transform="translate(486.292 298.965)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+    <g id="Group_802" data-name="Group 802" transform="translate(-431.159 169.091)">
+      <path id="Path_128" data-name="Path 128" d="M975,1948v11.319" transform="translate(-14.341 -1789)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5"/>
+      <path id="Path_129" data-name="Path 129" d="M0,0V11.319" transform="translate(966.318 164.659) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

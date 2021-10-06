@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <filter id="Ellipse_53" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon_Absen" data-name="Icon Absen" transform="translate(22.716 17.716)">
+    <g transform="matrix(1, 0, 0, 1, -22.72, -17.72)" filter="url(#Ellipse_53)">
+      <circle id="Ellipse_53-2" data-name="Ellipse 53" cx="36.5" cy="36.5" r="36.5" transform="translate(22.5 17.5)" fill="#2680eb"/>
+    </g>
+    <g id="Group_2281" data-name="Group 2281" transform="translate(-1007.003 -235.693)">
+      <path id="Path_2438" data-name="Path 2438" d="M788-6.886l-7.816-8.125a1.879,1.879,0,0,0-1.357-.58h-.487V-4.979h10.219v-.506A2.023,2.023,0,0,0,788-6.886Z" transform="translate(270.054 266.343)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_2440" data-name="Path 2440" d="M540.226-4.316V-15.592H524.258a1.949,1.949,0,0,0-1.916,1.99V24.869a1.949,1.949,0,0,0,1.916,1.99h26.826A1.949,1.949,0,0,0,553,24.869V-2.326H542.142A1.96,1.96,0,0,1,540.226-4.316Z" transform="translate(505.616 266.343)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_18" data-name="Line 18" x2="20.205" transform="translate(1032.737 269.687)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+      <line id="Line_19" data-name="Line 19" x2="20.205" transform="translate(1032.737 275.639)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+      <line id="Line_20" data-name="Line 20" x2="20.205" transform="translate(1032.737 282.132)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+      <line id="Line_21" data-name="Line 21" x2="9.698" transform="translate(1032.737 288.082)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+      <path id="ban-solid" d="M13.17,8a5.17,5.17,0,1,0,5.17,5.17A5.17,5.17,0,0,0,13.17,8Zm2.712,2.458a3.836,3.836,0,0,1,.431,4.912L10.97,10.027A3.836,3.836,0,0,1,15.883,10.458Zm-5.425,5.425a3.836,3.836,0,0,1-.431-4.912l5.344,5.344A3.836,3.836,0,0,1,10.458,15.883Z" transform="translate(1023.678 245.566)" fill="#2680eb"/>
+    </g>
+  </g>
+</svg>

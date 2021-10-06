@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="136" viewBox="0 0 136 136">
+  <g id="Virtual_Icon" data-name="Virtual Icon" transform="translate(-11.296 -12)">
+    <g id="Group_2" data-name="Group 2" transform="translate(39.615 43.629)">
+      <g id="Icon_feather-map" data-name="Icon feather-map" transform="translate(0 15.828)">
+        <path id="Path_3" data-name="Path 3" d="M1.5,14V57.984l25.293-11,28.906,11,25.293-11V3L55.7,14,26.793,3Z" transform="translate(-1.5 -3)" fill="none" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_4" data-name="Path 4" d="M12,3V46.987" transform="translate(13.293 -3)" fill="none" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_5" data-name="Path 5" d="M24,9V52.987" transform="translate(30.199 1.997)" fill="none" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+      <g id="Icon_feather-map-pin" data-name="Icon feather-map-pin" transform="translate(22.17)">
+        <path id="Path_1" data-name="Path 1" d="M39.73,19.115c0,13.7-17.615,25.444-17.615,25.444S4.5,32.816,4.5,19.115a17.615,17.615,0,1,1,35.23,0Z" transform="translate(-4.5 -1.5)" fill="#fff" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path id="Path_2" data-name="Path 2" d="M25.243,16.372A5.872,5.872,0,1,1,19.372,10.5a5.872,5.872,0,0,1,5.872,5.872Z" transform="translate(-1.757 1.243)" fill="#fff" stroke="#3a3a3a" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <g id="Ellipse_7" data-name="Ellipse 7" transform="translate(11.296 12)" fill="none" stroke="#3a3a3a" stroke-width="3">
+      <circle cx="68" cy="68" r="68" stroke="none"/>
+      <circle cx="68" cy="68" r="66.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_37338" data-name="Path 37338" d="M9.973,64H1.418A1.418,1.418,0,0,0,0,65.418v8.555a1.418,1.418,0,0,0,1.418,1.418H9.973a1.418,1.418,0,0,0,1.418-1.418V65.418A1.418,1.418,0,0,0,9.973,64Zm5.618,1.118L12.34,67.361V72.03l3.251,2.24a.951.951,0,0,0,1.5-.765v-7.62A.952.952,0,0,0,15.591,65.118Z" transform="translate(954.457 261.305)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-kegiatan-tatap-maya" transform="translate(-948 -316)">
+    <circle id="Ellipse_629" data-name="Ellipse 629" cx="15" cy="15" r="15" transform="translate(948 316)" fill="#d9eeff" opacity="0.4"/>
+    <path id="Path_37337" data-name="Path 37337" d="M9.973,64H1.418A1.418,1.418,0,0,0,0,65.418v8.555a1.418,1.418,0,0,0,1.418,1.418H9.973a1.418,1.418,0,0,0,1.418-1.418V65.418A1.418,1.418,0,0,0,9.973,64Zm5.618,1.118L12.34,67.361V72.03l3.251,2.24a.951.951,0,0,0,1.5-.765v-7.62A.952.952,0,0,0,15.591,65.118Z" transform="translate(954.457 261.305)" fill="#2680eb"/>
+    <g id="Mask_Group_1524" data-name="Mask Group 1524" clip-path="url(#clip-path)">
+      <circle id="Ellipse_630" data-name="Ellipse 630" cx="11.354" cy="11.354" r="11.354" transform="translate(941.38 313.951)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="icon-warning-danger" transform="translate(-14.775 -3.275)">
+    <circle id="Ellipse_79" data-name="Ellipse 79" cx="7.5" cy="7.5" r="7.5" transform="translate(14.775 3.275)" fill="#fc544b"/>
+    <path id="Path_214" data-name="Path 214" d="M18.872,7.754a1.436,1.436,0,1,1-1.436-1.436A1.437,1.437,0,0,1,18.872,7.754ZM16.166.452l.244,4.882a.431.431,0,0,0,.43.409h1.191a.431.431,0,0,0,.43-.409L18.706.452A.431.431,0,0,0,18.275,0H16.6A.431.431,0,0,0,16.166.452Z" transform="translate(4.987 6.706)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+[
+  { "label": "Milik", "value": "milik" },
+  { "label": "Sewa", "value": "sewa" },
+  { "label": "Pinjam", "value": "pinjam" },
+  { "label": "Bukan Milik", "value": "bukan milik" }
+]

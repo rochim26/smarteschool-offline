@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="115" viewBox="0 0 115 115">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2680eb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        filter: url(#Ellipse_53);
+      }
+    </style>
+    <filter id="Ellipse_53" x="0" y="0" width="115" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="book-solid" class="cls-1" d="M36.054,28.972V1.931A1.927,1.927,0,0,0,34.123,0H7.726A7.728,7.728,0,0,0,0,7.726V33.479A7.728,7.728,0,0,0,7.726,41.2h26.4a1.927,1.927,0,0,0,1.931-1.931V37.986a1.947,1.947,0,0,0-.716-1.5,17.947,17.947,0,0,1,0-6.012,1.918,1.918,0,0,0,.716-1.5Zm-5.36,7.082H7.726a2.575,2.575,0,0,1,0-5.151H30.694A28.973,28.973,0,0,0,30.694,36.054Z"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Absen" data-name="Icon Absen" transform="translate(22.55 18.022)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -22.55, -18.02)">
+      <circle id="Ellipse_53-2" data-name="Ellipse 53" class="cls-1" cx="35" cy="35" r="35" transform="translate(22.5 17.5)"/>
+    </g>
+    <g id="Group_2623" data-name="Group 2623" transform="translate(-37.056 -23.334)">
+      <g id="Group_2622" data-name="Group 2622" transform="translate(53.979 36.811)">
+        <path id="book-solid-2" data-name="book-solid" class="cls-2" d="M36.054,28.972V1.931A1.927,1.927,0,0,0,34.123,0H7.726A7.728,7.728,0,0,0,0,7.726V33.479A7.728,7.728,0,0,0,7.726,41.2h26.4a1.927,1.927,0,0,0,1.931-1.931V37.986a1.947,1.947,0,0,0-.716-1.5,17.947,17.947,0,0,1,0-6.012,1.918,1.918,0,0,0,.716-1.5Zm-5.36,7.082H7.726a2.575,2.575,0,0,1,0-5.151H30.694A28.973,28.973,0,0,0,30.694,36.054Z"/>
+      </g>
+      <path id="user-solid" class="cls-1" d="M7.55,8.629A4.314,4.314,0,1,0,3.236,4.314,4.314,4.314,0,0,0,7.55,8.629Zm3.02,1.079h-.563a5.867,5.867,0,0,1-4.914,0H4.53A4.531,4.531,0,0,0,0,14.237v1.4a1.618,1.618,0,0,0,1.618,1.618H13.482A1.618,1.618,0,0,0,15.1,15.639v-1.4A4.531,4.531,0,0,0,10.57,9.707Z" transform="translate(65.369 43.887)"/>
+    </g>
+  </g>
+</svg>

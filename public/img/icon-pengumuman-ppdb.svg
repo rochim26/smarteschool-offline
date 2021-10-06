@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="169" height="169" viewBox="0 0 169 169">
+  <defs>
+    <filter id="Ellipse_143" x="0" y="0" width="169" height="169" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#3a4166" flood-opacity="0.098"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="Path_260" data-name="Path 260" d="M1574.129,195.389V180.821a3.08,3.08,0,0,0-3.049-3.05,3.044,3.044,0,0,0-1.9.669l-8.1,6.483a23.128,23.128,0,0,1-14.388,5.046h-18.3a6.1,6.1,0,0,0-6.1,6.1v9.148a6.1,6.1,0,0,0,6.1,6.1h3.211a23.2,23.2,0,0,0-.208,3.049,24.14,24.14,0,0,0,2.436,10.572,2.99,2.99,0,0,0,2.706,1.626h7.078a3.03,3.03,0,0,0,2.468-4.818,12.137,12.137,0,0,1-2.492-7.38,11.538,11.538,0,0,1,.42-3.049h2.676a23.126,23.126,0,0,1,14.387,5.045l8.1,6.483a3.047,3.047,0,0,0,4.953-2.38V205.895a6.049,6.049,0,0,0,0-10.506Z" transform="translate(-1522.29 -177.771)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="pengumuman-ppdb" transform="translate(-221.5 -323.5)">
+    <g transform="matrix(1, 0, 0, 1, 221.5, 323.5)" filter="url(#Ellipse_143)">
+      <circle id="Ellipse_143-2" data-name="Ellipse 143" cx="47" cy="47" r="47" transform="translate(37.5 27.5)" fill="#fff"/>
+    </g>
+    <g id="Group_613" data-name="Group 613" transform="translate(279 374)">
+      <path id="Path_259" data-name="Path 259" d="M1574.129,195.389V180.821a3.08,3.08,0,0,0-3.049-3.05,3.044,3.044,0,0,0-1.9.669l-8.1,6.483a23.128,23.128,0,0,1-14.388,5.046h-18.3a6.1,6.1,0,0,0-6.1,6.1v9.148a6.1,6.1,0,0,0,6.1,6.1h3.211a23.2,23.2,0,0,0-.208,3.049,24.14,24.14,0,0,0,2.436,10.572,2.99,2.99,0,0,0,2.706,1.626h7.078a3.03,3.03,0,0,0,2.468-4.818,12.137,12.137,0,0,1-2.492-7.38,11.538,11.538,0,0,1,.42-3.049h2.676a23.126,23.126,0,0,1,14.387,5.045l8.1,6.483a3.047,3.047,0,0,0,4.953-2.38V205.895a6.049,6.049,0,0,0,0-10.506Z" transform="translate(-1522.29 -177.771)" fill="#2680eb"/>
+      <g id="Group_612" data-name="Group 612">
+        <g id="Group_611" data-name="Group 611" clip-path="url(#clip-path)">
+          <circle id="Ellipse_90" data-name="Ellipse 90" cx="23.061" cy="23.061" r="23.061" transform="translate(-13.849 -6.569)" fill="#6bb1fe" opacity="0.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

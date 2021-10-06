@@ -1,0 +1,9 @@
+[
+  { "label": "Islam", "value": "islam" },
+  { "label": "Kristen Protestan", "value": "protestan" },
+  { "label": "Kristen Katolik", "value": "katolik" },
+  { "label": "Hindu", "value": "hindu" },
+  { "label": "Buddha", "value": "buddha" },
+  { "label": "Khonghucu", "value": "khonghucu" },
+  { "label": "Lainnya (Penghayat Kepercayaan)", "value": "lainnya" }
+]

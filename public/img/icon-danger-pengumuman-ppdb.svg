@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.001" height="66.001" viewBox="0 0 66.001 66.001">
+  <defs>
+    <filter id="Ellipse_79" x="0" y="0" width="66.001" height="66.001" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#ff704f" flood-opacity="0.498"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon-danger-pengumuman-ppdb" transform="translate(22.5 17.5)">
+    <g transform="matrix(1, 0, 0, 1, -22.5, -17.5)" filter="url(#Ellipse_79)">
+      <circle id="Ellipse_79-2" data-name="Ellipse 79" cx="10.5" cy="10.5" r="10.5" transform="translate(22.5 17.5)" fill="#fc544b"/>
+    </g>
+    <path id="Path_214" data-name="Path 214" d="M20.021,10.855a2.01,2.01,0,1,1-2.01-2.01A2.013,2.013,0,0,1,20.021,10.855ZM16.233.633l.342,6.835a.6.6,0,0,0,.6.573h1.667a.6.6,0,0,0,.6-.573L19.788.633a.6.6,0,0,0-.6-.633H16.835A.6.6,0,0,0,16.233.633Z" transform="translate(-7.303 4.804)" fill="#fff"/>
+  </g>
+</svg>

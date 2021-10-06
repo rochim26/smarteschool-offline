@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_270" data-name="Path 270" d="M16.479,69.106A9.231,9.231,0,0,0,8.29,64,9.233,9.233,0,0,0,.1,69.106a.931.931,0,0,0,0,.84A9.231,9.231,0,0,0,8.29,75.052a9.233,9.233,0,0,0,8.189-5.106A.931.931,0,0,0,16.479,69.106ZM8.29,73.67a4.144,4.144,0,1,1,4.145-4.144A4.144,4.144,0,0,1,8.29,73.67Zm0-6.907a2.744,2.744,0,0,0-.728.109A1.377,1.377,0,0,1,5.636,68.8,2.757,2.757,0,1,0,8.29,66.763Z" transform="translate(-0.001 -64)" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <g id="icon-lihat" transform="translate(-218.736 -549.736)">
+    <circle id="Ellipse_91" data-name="Ellipse 91" cx="10" cy="10" r="10" transform="translate(218.736 549.736)" fill="#d9eeff" opacity="0.7"/>
+    <path id="Path_269" data-name="Path 269" d="M16.479,69.106A9.231,9.231,0,0,0,8.29,64,9.233,9.233,0,0,0,.1,69.106a.931.931,0,0,0,0,.84A9.231,9.231,0,0,0,8.29,75.052a9.233,9.233,0,0,0,8.189-5.106A.931.931,0,0,0,16.479,69.106ZM8.29,73.67a4.144,4.144,0,1,1,4.145-4.144A4.144,4.144,0,0,1,8.29,73.67Zm0-6.907a2.744,2.744,0,0,0-.728.109A1.377,1.377,0,0,1,5.636,68.8,2.757,2.757,0,1,0,8.29,66.763Z" transform="translate(220.446 490.211)" fill="#2680eb"/>
+    <g id="Mask_Group_10" data-name="Mask Group 10" transform="translate(220.447 554.211)" clip-path="url(#clip-path)">
+      <circle id="Ellipse_93" data-name="Ellipse 93" cx="9" cy="9" r="9" transform="translate(-8.711 -7.474)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

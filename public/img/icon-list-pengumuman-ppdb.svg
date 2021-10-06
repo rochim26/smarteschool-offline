@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <filter id="icon-list-pengumuman-ppdb" x="0" y="0" width="66" height="66" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#icon-list-pengumuman-ppdb)">
+    <g id="icon-list-pengumuman-ppdb-2" data-name="icon-list-pengumuman-ppdb" transform="translate(22.5 17.5)" fill="#2680eb" stroke="#fff" stroke-width="4">
+      <circle cx="10.5" cy="10.5" r="10.5" stroke="none"/>
+      <circle cx="10.5" cy="10.5" r="8.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="69" viewBox="0 0 69 69">
+  <g id="icon-rekap-nilai" transform="translate(-164 -140)">
+    <circle id="Ellipse_307" data-name="Ellipse 307" cx="34.5" cy="34.5" r="34.5" transform="translate(164 140)" fill="#2680eb"/>
+    <g id="Group_1942" data-name="Group 1942" transform="translate(181.102 151.564)">
+      <path id="Path_2573" data-name="Path 2573" d="M26.83,5.11H20.442a5.11,5.11,0,0,0-10.221,0H3.833A3.834,3.834,0,0,0,0,8.943V37.051a3.834,3.834,0,0,0,3.833,3.833h23a3.834,3.834,0,0,0,3.833-3.833V8.943A3.834,3.834,0,0,0,26.83,5.11ZM7.666,33.857A1.916,1.916,0,1,1,9.582,31.94,1.912,1.912,0,0,1,7.666,33.857Zm0-7.666a1.916,1.916,0,1,1,1.916-1.916A1.912,1.912,0,0,1,7.666,26.191Zm0-7.666a1.916,1.916,0,1,1,1.916-1.916A1.912,1.912,0,0,1,7.666,18.525ZM15.331,3.194A1.916,1.916,0,1,1,13.415,5.11,1.912,1.912,0,0,1,15.331,3.194ZM25.552,32.579a.641.641,0,0,1-.639.639h-11.5a.641.641,0,0,1-.639-.639V31.3a.641.641,0,0,1,.639-.639h11.5a.641.641,0,0,1,.639.639Zm0-7.666a.641.641,0,0,1-.639.639h-11.5a.641.641,0,0,1-.639-.639V23.636A.641.641,0,0,1,13.415,23h11.5a.641.641,0,0,1,.639.639Zm0-7.666a.641.641,0,0,1-.639.639h-11.5a.641.641,0,0,1-.639-.639V15.97a.641.641,0,0,1,.639-.639h11.5a.641.641,0,0,1,.639.639Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Union_41" data-name="Union 41" d="M2,37.835a1.893,1.893,0,0,1-2-1.773V1.775A1.9,1.9,0,0,1,2,0H18.7V0H21.88A2.138,2.138,0,0,1,23.3.518L31.474,7.76a1.672,1.672,0,0,1,.584,1.248V36.062a1.893,1.893,0,0,1-2,1.773Z" transform="translate(2.539 7.772)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+      <g id="Group_1941" data-name="Group 1941" transform="translate(4.769 8.932)">
+        <path id="Path_2564" data-name="Path 2564" d="M74.6,135H76.8l8.645,8.077v2.05H73.368Z" transform="translate(-58.578 -134.036)" fill="#2680eb"/>
+        <path id="Path_2438" data-name="Path 2438" d="M786.543-8.953l-6.635-6.2a1.687,1.687,0,0,0-1.152-.443h-.413V-7.5h8.675v-.386A1.463,1.463,0,0,0,786.543-8.953Z" transform="translate(-760.137 16.556)" fill="#f4f4f7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Subtraction_12" data-name="Subtraction 12" d="M15.68,8.6V0h-14A1.6,1.6,0,0,0,0,1.518v29.34a1.6,1.6,0,0,0,1.68,1.518H25.2a1.6,1.6,0,0,0,1.68-1.518V10.117h-9.52A1.61,1.61,0,0,1,15.68,8.6Z" transform="translate(0 0.964)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_18" data-name="Line 18" x2="15.575" transform="translate(5.252 16.09)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_153" data-name="Line 153" x2="15.575" transform="translate(5.252 21.566)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_154" data-name="Line 154" x2="8.617" transform="translate(5.252 27.042)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="3"/>
+        <text id="A" transform="translate(3.773 9.186)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="8" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">A</tspan></text>
+        <text id="_" data-name="+" transform="translate(9.56 5)" fill="#2680eb" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" font-size="5" font-family="Nunito-Black, Nunito" font-weight="800"><tspan x="0" y="0">+</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

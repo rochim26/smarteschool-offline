@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="118" viewBox="0 0 118 118">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2680eb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        filter: url(#Ellipse_53);
+      }
+    </style>
+    <filter id="Ellipse_53" x="0" y="0" width="118" height="118" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon_Absen" data-name="Icon Absen" transform="translate(22.5 17.5)">
+    <g class="cls-3" transform="matrix(1, 0, 0, 1, -22.5, -17.5)">
+      <circle id="Ellipse_53-2" data-name="Ellipse 53" class="cls-1" cx="36.5" cy="36.5" r="36.5" transform="translate(22.5 17.5)"/>
+    </g>
+    <path id="balance-scale-solid" class="cls-2" d="M14.114,18.525h0c0-.892.074-.481-4.689-10.007a2.648,2.648,0,0,0-4.734,0C-.114,18.125,0,17.661,0,18.525H0c0,2.436,3.16,4.411,7.057,4.411S14.114,20.961,14.114,18.525ZM7.057,9.7l3.97,7.939H3.088Zm28.228,8.822c0-.892.074-.481-4.689-10.007a2.648,2.648,0,0,0-4.734,0c-4.8,9.608-4.689,9.144-4.689,10.007h0c0,2.436,3.16,4.411,7.057,4.411s7.057-1.975,7.057-4.411Zm-11.026-.882L28.229,9.7l3.97,7.939ZM29.111,24.7h-9.7V8.449a4.414,4.414,0,0,0,2.558-3.156h7.146a.882.882,0,0,0,.882-.882V2.646a.882.882,0,0,0-.882-.882H21.152a4.371,4.371,0,0,0-7.018,0H6.175a.882.882,0,0,0-.882.882V4.411a.882.882,0,0,0,.882.882h7.146a4.414,4.414,0,0,0,2.558,3.156V24.7h-9.7a.882.882,0,0,0-.882.882v1.764a.882.882,0,0,0,.882.882H29.111a.882.882,0,0,0,.882-.882V25.582A.882.882,0,0,0,29.111,24.7Z" transform="translate(18.857 22.386)"/>
+  </g>
+</svg>

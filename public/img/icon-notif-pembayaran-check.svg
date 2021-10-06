@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 54 54">
+  <g id="icon-notif-pembayaran-check" transform="translate(-163 -489.001)">
+    <g id="Group_802" data-name="Group 802" transform="translate(163 489.001)">
+      <circle id="Ellipse_53" data-name="Ellipse 53" cx="27" cy="27" r="27" transform="translate(0 0)" fill="#2680eb"/>
+    </g>
+    <path id="Subtraction_8" data-name="Subtraction 8" d="M24.543,24.719H3.4A3.475,3.475,0,0,1,0,21.184V3.529A3.473,3.473,0,0,1,3.4,0H22.989a2.606,2.606,0,0,1,2.553,2.65.867.867,0,0,1-.853.879H4.256a.882.882,0,0,0,0,1.764H24.543a2.681,2.681,0,0,1,2.7,2.65V22.068A2.681,2.681,0,0,1,24.543,24.719ZM8.157,13.176a.7.7,0,0,0-.508.215L6.629,14.447a.769.769,0,0,0,0,1.059l4.683,4.854a.7.7,0,0,0,1.019,0l8.286-8.59a.766.766,0,0,0,0-1.053L19.6,9.658a.7.7,0,0,0-1.02,0l-6.757,7.006L8.668,13.391A.712.712,0,0,0,8.157,13.176Z" transform="translate(176.717 503.969)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>

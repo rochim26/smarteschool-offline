@@ -1,0 +1,15 @@
+<svg id="Group_1779" data-name="Group 1779" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="book-solid" d="M15.97,12.833V.856A.853.853,0,0,0,15.115,0H3.422A3.423,3.423,0,0,0,0,3.422V14.829a3.423,3.423,0,0,0,3.422,3.422H15.115a.853.853,0,0,0,.856-.856v-.57a.862.862,0,0,0-.317-.667,7.95,7.95,0,0,1,0-2.663.85.85,0,0,0,.317-.663ZM13.6,15.97H3.422a1.141,1.141,0,0,1,0-2.281H13.6A12.834,12.834,0,0,0,13.6,15.97Z" fill="#2680eb"/>
+    </clipPath>
+  </defs>
+  <circle id="Ellipse_302" data-name="Ellipse 302" cx="15" cy="15" r="15" fill="#d9eeff" opacity="0.4"/>
+  <g id="Group_1779-2" data-name="Group 1779" transform="translate(6.611 6.334)">
+    <path id="book-solid-2" data-name="book-solid" d="M15.97,12.833V.856A.853.853,0,0,0,15.115,0H3.422A3.423,3.423,0,0,0,0,3.422V14.829a3.423,3.423,0,0,0,3.422,3.422H15.115a.853.853,0,0,0,.856-.856v-.57a.862.862,0,0,0-.317-.667,7.95,7.95,0,0,1,0-2.663.85.85,0,0,0,.317-.663ZM13.6,15.97H3.422a1.141,1.141,0,0,1,0-2.281H13.6A12.834,12.834,0,0,0,13.6,15.97Z" fill="#2680eb"/>
+    <g id="Mask_Group_1318" data-name="Mask Group 1318" clip-path="url(#clip-path)">
+      <circle id="Ellipse_303" data-name="Ellipse 303" cx="11.354" cy="11.354" r="11.354" transform="translate(-12.232 -9.911)" fill="#6bb1fe" opacity="0.5"/>
+    </g>
+  </g>
+  <text id="_10" data-name="10" transform="translate(11 16)" fill="#f4f4f7" font-size="7" font-family="NunitoSans-ExtraBold, Nunito Sans" font-weight="800"><tspan x="0" y="0">10</tspan></text>
+</svg>

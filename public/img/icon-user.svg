@@ -1,0 +1,17 @@
+<svg id="icon-detail-buku-induk" xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2680eb;
+      }
+
+      .cls-2 {
+        fill: #f4f4f7;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_53" data-name="Ellipse 53" class="cls-1" cx="43" cy="43" r="43"/>
+  <g id="Group_2320" data-name="Group 2320" transform="translate(-42.151 -14.449)">
+    <path id="user-solid" class="cls-2" d="M20.628,23.575A11.787,11.787,0,1,0,8.841,11.787,11.787,11.787,0,0,0,20.628,23.575Zm8.251,2.947H27.341a16.031,16.031,0,0,1-13.427,0H12.377A12.38,12.38,0,0,0,0,38.9V42.73a4.421,4.421,0,0,0,4.42,4.42H36.836a4.421,4.421,0,0,0,4.42-4.42V38.9A12.38,12.38,0,0,0,28.879,26.522Z" transform="translate(64.151 33.449)"/>
+  </g>
+</svg>

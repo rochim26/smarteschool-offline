@@ -1,0 +1,6 @@
+[
+  { "value": "UH", "label": "Ulangan Harian" },
+  { "value": "UTS", "label": "Ulangan Tengah Semester" },
+  { "value": "UAS", "label": "Ulangan Akhir Semester" },
+  { "value": "US", "label": "Ujian Sekolah" }
+]

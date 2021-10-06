@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="86" viewBox="0 0 86 86">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="86" height="86" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="icon-rapor-buku-induk-detail" clip-path="url(#clip-path)">
+    <g id="icon-rapor-buku-induk-detail-2" data-name="icon-rapor-buku-induk-detail">
+      <circle id="Ellipse_53" data-name="Ellipse 53" cx="43" cy="43" r="43" fill="#2680eb"/>
+      <g id="Group_1711" data-name="Group 1711" transform="translate(-29.087 -117.043)">
+        <path id="Path_2438" data-name="Path 2438" d="M789.74-5.32l-9.222-9.587a2.217,2.217,0,0,0-1.6-.685h-.575V-3.07H790.4v-.6A2.387,2.387,0,0,0,789.74-5.32Z" transform="translate(-700.228 150.592)" fill="#f4f4f7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Subtraction_12" data-name="Subtraction 12" d="M33.913,50.086H2.262A2.308,2.308,0,0,1,0,47.738V2.347A2.308,2.308,0,0,1,2.262,0H21.1V13.3a2.308,2.308,0,0,0,2.261,2.347H36.174V47.738A2.308,2.308,0,0,1,33.913,50.086ZM7.885,13.038h3.888l.54,1.211a.971.971,0,0,0,.36.432.927.927,0,0,0,.5.144,1.084,1.084,0,0,0,.726-.275.862.862,0,0,0,.318-.672,1.039,1.039,0,0,0-.108-.444l-3.168-6.5a1.108,1.108,0,0,0-.468-.5,1.392,1.392,0,0,0-1.35,0,1.125,1.125,0,0,0-.462.5L5.5,13.434a1.039,1.039,0,0,0-.108.444.85.85,0,0,0,.33.672,1.126,1.126,0,0,0,.738.275.939.939,0,0,0,.876-.576l.551-1.211Zm5.872-9.53a.406.406,0,0,0-.413.413.415.415,0,0,0,.119.3.4.4,0,0,0,.294.122h.882v.875a.418.418,0,0,0,.71.294.4.4,0,0,0,.115-.294V4.342h.882a.4.4,0,0,0,.294-.122.415.415,0,0,0,.119-.3.406.406,0,0,0-.413-.413h-.882V2.626a.413.413,0,1,0-.825,0v.882ZM11.03,11.382h-2.4l1.2-2.677,1.2,2.675Z" transform="translate(54 135.001)" fill="#f4f4f7" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+        <line id="Line_18" data-name="Line 18" x2="23.839" transform="translate(59.638 157.343)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+        <path id="Path_2524" data-name="Path 2524" d="M0,0H23.839" transform="translate(59.638 164.365)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+        <line id="Line_20" data-name="Line 20" x2="23.839" transform="translate(59.638 172.026)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+        <line id="Line_21" data-name="Line 21" x2="11.443" transform="translate(59.638 179.048)" fill="none" stroke="#2680eb" stroke-linecap="round" stroke-width="2.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

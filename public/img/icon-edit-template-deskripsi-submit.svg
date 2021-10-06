@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="105" height="105" viewBox="0 0 105 105">
+  <defs>
+    <filter id="Check" x="0" y="0" width="105" height="105" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#2680eb" flood-opacity="0.298"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon-edit-template-deskripsi-submit" transform="translate(37.5 27.5)">
+    <g transform="matrix(1, 0, 0, 1, -37.5, -27.5)" filter="url(#Check)">
+      <circle id="Check-2" data-name="Check" cx="15" cy="15" r="15" transform="translate(37.5 27.5)" fill="#2680eb"/>
+    </g>
+    <path id="Path_160" data-name="Path 160" d="M5.135,76.15.222,71.237a.756.756,0,0,1,0-1.069L1.291,69.1a.756.756,0,0,1,1.069,0l3.31,3.31,7.089-7.089a.756.756,0,0,1,1.069,0L14.9,66.389a.756.756,0,0,1,0,1.069L6.2,76.15a.756.756,0,0,1-1.069,0Z" transform="translate(6.855 -55.737)" fill="#fff"/>
+  </g>
+</svg>

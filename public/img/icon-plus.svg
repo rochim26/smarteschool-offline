@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ededf4;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #80849c;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Group_2804" data-name="Group 2804" transform="translate(-359 -131)">
+    <circle id="Ellipse_476" data-name="Ellipse 476" class="cls-1" cx="12" cy="12" r="12" transform="translate(359 131)"/>
+    <g id="Group_2797" data-name="Group 2797" transform="translate(365.512 137.449)">
+      <path id="Path_128" data-name="Path 128" class="cls-2" d="M975,1948v10.978" transform="translate(-969.511 -1948)"/>
+      <path id="Path_129" data-name="Path 129" class="cls-2" d="M0,0V10.978" transform="translate(10.978 5.489) rotate(90)"/>
+    </g>
+  </g>
+</svg>
