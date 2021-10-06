@@ -74,8 +74,6 @@ function MyApp({ Component, pageProps, router }) {
         integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
         crossOrigin="anonymous"
       ></script>
-      {/* <script src="https://cdn.ckeditor.com/ckeditor5/27.1.0/classic/ckeditor.js"></script> */}
-      <script src="/js/app.js"></script>
     </>
   );
 }

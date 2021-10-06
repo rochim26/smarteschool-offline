@@ -49,7 +49,6 @@ const Layout = ({ children, isFluid, modalWrapper, isIndex, isDashboard }) => {
           </small>
         </div>
       </footer>
-      <Help />
     </div>
   );
 };
