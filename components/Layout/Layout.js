@@ -1,17 +1,5 @@
-import { useEffect } from "react";
-import { useRouter } from "next/router";
-import Header from "../Shared/Header/Header";
-import { getProfil } from "../../client/sharedClient";
-import useUser from "../../hooks/useUser";
-import { ppdbURL, ssURL } from "../../client/clientAxios";
-import OperatorHeader from "../Shared/Header/OperatorHeader";
-import useSekolah from "../../hooks/useSekolah";
-import { meSekolah } from "../../client/SekolahClient";
-import useBagian from "../../hooks/useBagian";
-import Head from "next/head";
-import Help from "../Help/Help";
-import useTa from "../../hooks/useTa";
 import BottomNavigation from "../Shared/Header/BottomNavigation";
+import Header from "../Shared/Header/Header";
 
 const Layout = ({ children, isFluid, modalWrapper, isIndex, isDashboard }) => {
   return (

@@ -1,23 +1,14 @@
 import Link from "next/link";
-import { useEffect, useState } from "react";
-import { baseURL, ssURL } from "../../../client/clientAxios";
-
 import { useRouter } from "next/router";
-import { getProfil } from "../../../client/sharedClient";
+import { useEffect, useState } from "react";
+import { ssURL } from "../../../client/clientAxios";
 import useUser from "../../../hooks/useUser";
-import useSekolah from "../../../hooks/useSekolah";
-import Avatar from "../Avatar/Avatar";
-import { FaBell } from "react-icons/fa";
-import { Badge } from "antd";
-import useBagian from "../../../hooks/useBagian";
 
 const BottomNavigation = () => {
   const router = useRouter();
   const [menuAktif, setMenuAktif] = useState(ssURL);
 
   const { user, setUser } = useUser();
-  const { setBagian } = useBagian();
-  const { sekolah } = useSekolah();
   const [activeMenu, setActiveMenu] = useState(`/`);
 
   useEffect(() => {
